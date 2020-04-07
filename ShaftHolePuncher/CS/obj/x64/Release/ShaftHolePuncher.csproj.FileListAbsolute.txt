@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ShaftHolePuncher\CS\bin\Release\ShaftHolePuncher.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ShaftHolePuncher\CS\bin\Release\ShaftHolePuncher.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ShaftHolePuncher\CS\obj\x64\Release\Revit.SDK.Samples.ShaftHolePuncher.CS.ShaftHolePuncherForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ShaftHolePuncher\CS\obj\x64\Release\ShaftHolePuncher.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ShaftHolePuncher\CS\obj\x64\Release\ShaftHolePuncher.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ShaftHolePuncher\CS\obj\x64\Release\ShaftHolePuncher.pdb

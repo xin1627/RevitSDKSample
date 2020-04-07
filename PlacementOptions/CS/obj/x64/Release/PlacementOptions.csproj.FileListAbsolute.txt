@@ -1,0 +1,8 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PlacementOptions\CS\bin\Release\PlacementOptions.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PlacementOptions\CS\bin\Release\PlacementOptions.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PlacementOptions\CS\obj\x64\Release\Revit.SDK.Samples.PlacementOptions.CS.FacebasedForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PlacementOptions\CS\obj\x64\Release\Revit.SDK.Samples.PlacementOptions.CS.OptionsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PlacementOptions\CS\obj\x64\Release\Revit.SDK.Samples.PlacementOptions.CS.SketchbasedForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PlacementOptions\CS\obj\x64\Release\PlacementOptions.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PlacementOptions\CS\obj\x64\Release\PlacementOptions.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PlacementOptions\CS\obj\x64\Release\PlacementOptions.pdb

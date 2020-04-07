@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateFillPattern\CS\bin\Release\CreateFillPattern.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateFillPattern\CS\bin\Release\CreateFillPattern.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateFillPattern\CS\obj\x64\Release\Revit.SDK.Samples.CreateFillPattern.CS.PatternForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateFillPattern\CS\obj\x64\Release\CreateFillPattern.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateFillPattern\CS\obj\x64\Release\CreateFillPattern.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateFillPattern\CS\obj\x64\Release\CreateFillPattern.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateFillPattern\CS\obj\x64\Release\CreateFillPattern.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DirectionCalculation\CS\bin\Release\DirectionCalculation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DirectionCalculation\CS\bin\Release\DirectionCalculation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DirectionCalculation\CS\obj\x64\Release\DirectionCalculation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DirectionCalculation\CS\obj\x64\Release\DirectionCalculation.pdb

@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\GeometryCreation_BooleanOperation\CS\bin\Release\GeometryCreation_BooleanOperation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\GeometryCreation_BooleanOperation\CS\bin\Release\GeometryCreation_BooleanOperation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\GeometryCreation_BooleanOperation\CS\obj\x64\Release\GeometryCreation_BooleanOperation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\GeometryCreation_BooleanOperation\CS\obj\x64\Release\GeometryCreation_BooleanOperation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\GeometryCreation_BooleanOperation\CS\obj\x64\Release\GeometryCreation_BooleanOperation.csprojResolveAssemblyReference.cache

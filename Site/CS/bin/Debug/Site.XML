@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Site</name>
+    </assembly>
+    <members>
+        <member name="T:Revit.SDK.Samples.Site.CS.Application">
+            <summary>
+            Implements the Revit add-in interface IExternalApplication
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.Application.OnShutdown(Autodesk.Revit.UI.UIControlledApplication)">
+            <summary>
+            Implements the OnShutdown event
+            </summary>
+            <param name="application"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.Application.OnStartup(Autodesk.Revit.UI.UIControlledApplication)">
+            <summary>
+            Implements the OnStartup event
+            </summary>
+            <param name="application"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.Application.SetIconsForPushButtonData(Autodesk.Revit.UI.PushButtonData,System.Drawing.Icon)">
+            <summary>
+            Utility for adding icons to the button.
+            </summary>
+            <param name="button">The push button.</param>
+            <param name="icon">The icon.</param>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.Application.GetStdIcon(System.Drawing.Icon)">
+            <summary>
+            Gets the standard sized icon as a BitmapSource.
+            </summary>
+            <param name="icon">The icon.</param>
+            <returns>The BitmapSource.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.Application.GetSmallIcon(System.Drawing.Icon)">
+            <summary>
+            Gets the small sized icon as a BitmapSource.
+            </summary>
+            <param name="icon">The icon.</param>
+            <returns>The BitmapSource.</returns>
+        </member>
+        <member name="F:Revit.SDK.Samples.Site.CS.Application.addAssemblyPath">
+            <summary>
+            The path to this add-in assembly.
+            </summary>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Revit.SDK.Samples.Site.CS.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Revit.SDK.Samples.Site.CS.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Revit.SDK.Samples.Site.CS.Properties.Resources.AddPond">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+            </summary>
+        </member>
+        <member name="P:Revit.SDK.Samples.Site.CS.Properties.Resources.DeleteRegion">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+            </summary>
+        </member>
+        <member name="P:Revit.SDK.Samples.Site.CS.Properties.Resources.LowerTerrain">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+            </summary>
+        </member>
+        <member name="P:Revit.SDK.Samples.Site.CS.Properties.Resources.MoveRegion">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+            </summary>
+        </member>
+        <member name="P:Revit.SDK.Samples.Site.CS.Properties.Resources.RaiseTerrain">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+            </summary>
+        </member>
+        <member name="P:Revit.SDK.Samples.Site.CS.Properties.Resources.SiteNormalize">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+            </summary>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.TestRedLine">
+            <summary>
+            A command that adds a new circular retaining pond to a TopographySurface where the user selects.
+            </summary>
+            <remarks>This command demonstrates how the Site API supports creation of standard topography "families" representing
+            commonly used landscape structures.</remarks>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.TestRedLine.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implementation of the external command.
+            </summary>
+            <param name="commandData"></param>
+            <param name="message"></param>
+            <param name="elements"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteAddRetainingPondCommand">
+            <summary>
+            A command that adds a new circular retaining pond to a TopographySurface where the user selects.
+            </summary>
+            <remarks>This command demonstrates how the Site API supports creation of standard topography "families" representing
+            commonly used landscape structures.</remarks>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteAddRetainingPondCommand.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implementation of the external command.
+            </summary>
+            <param name="commandData"></param>
+            <param name="message"></param>
+            <param name="elements"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteAddRetainingPondCommand.AddNewRetainingPond(Autodesk.Revit.UI.UIDocument,System.Double)">
+            <summary>
+            Adds a new retaining pond.
+            </summary>
+            <param name="uiDoc">The document.</param>
+            <param name="pondRadius">The radius of the pond.</param>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteDeleteRegionAndPointsCommand">
+            <summary>
+            A command that deletes a subregion and all topography surface points it contains.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteDeleteRegionAndPointsCommand.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implementation of the command.
+            </summary>
+            <param name="commandData"></param>
+            <param name="message"></param>
+            <param name="elements"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteDeleteRegionAndPointsCommand.DeleteSubregionAndPoints(Autodesk.Revit.UI.UIDocument)">
+            <summary>
+            Deletes a subregion and all topography surface points it contains.
+            </summary>
+            <param name="uiDoc">The document.</param>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteEditingUtils">
+            <summary>
+            Database level utilities for the site editing commands.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.MoveXYZToElevation(Autodesk.Revit.DB.XYZ,System.Double)">
+            <summary>
+            Moves an XYZ point to the elevation specified.
+            </summary>
+            <param name="input">The input.</param>
+            <param name="elevation">The elevation.</param>
+            <returns>The new point.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.GetAverageElevation(System.Collections.Generic.IList{Autodesk.Revit.DB.XYZ})">
+            <summary>
+            Gets the average elevation (z) from a collection of points.
+            </summary>
+            <param name="existingPoints">The points.</param>
+            <returns>The average elevation.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.GeneratePondPointsSurrounding(Autodesk.Revit.DB.XYZ,System.Double)">
+            <summary>
+            Gets the boundary points for the circular retaining pond surrounding the input point.
+            </summary>
+            <param name="center">The point.  The elevation of this point is assumed to be at the bottom of the pond.</param>
+            <param name="maxRadius">The outer radius for the pond.</param>
+            <returns>The collection of points representing the pond. </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.GenerateCircleSurrounding(System.Collections.Generic.IList{Autodesk.Revit.DB.XYZ},Autodesk.Revit.DB.XYZ,System.Double,System.Double)">
+            <summary>
+            Generates the points representing a circular region around the center.
+            </summary>
+            <param name="points">The collection of points to which the results are added.</param>
+            <param name="center">The center.</param>
+            <param name="deltaElevation">The change in elevation relative to the center.</param>
+            <param name="radius">The radius of the circular region.</param>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.GetCenterOf(Autodesk.Revit.DB.Element)">
+            <summary>
+            Gets the center of the element's bounding box.
+            </summary>
+            <param name="element">The element.</param>
+            <returns>The center of the bounding box.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.GetPointsFromSubregionRough(Autodesk.Revit.DB.Architecture.TopographySurface)">
+            <summary>
+            Gets the points from a rectangular outline surrounding the subregion bounding box.
+            </summary>
+            <param name="subregion">The subregion.</param>
+            <returns>The points.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.GetPointsFromSubregionExact(Autodesk.Revit.DB.Architecture.TopographySurface)">
+            <summary>
+            Gets the points stored by a subregion.
+            </summary>
+            <param name="subregion">The subregion.</param>
+            <returns>The points</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.GetTopographySurfaceHost(Autodesk.Revit.DB.Architecture.TopographySurface)">
+            <summary>
+            Gets the TopographySurface host for a subregion.
+            </summary>
+            <param name="subregion">The subregion.</param>
+            <returns>The host TopographySurface.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteEditingUtils.GetNonBoundaryPoints(Autodesk.Revit.DB.Architecture.TopographySurface)">
+            <summary>
+            Gets all non-boundary points from a TopographySurface or Subregion.
+            </summary>
+            <param name="toposurface">The TopographySurface or Subregion.</param>
+            <returns>The non-boundary points.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteLowerTerrainInRegionCommand">
+            <summary>
+            A command that lowers all points contained in a subregion by 3 feet.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteLowerTerrainInRegionCommand.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implementation of the external command.
+            </summary>
+            <param name="commandData"></param>
+            <param name="message"></param>
+            <param name="elements"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteMoveRegionAndPointsCommand">
+            <summary>
+            A command that moves a subregion and the points it contains to a new location on the host surface.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteMoveRegionAndPointsCommand.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implementation of the external command.
+            </summary>
+            <param name="commandData"></param>
+            <param name="message"></param>
+            <param name="elements"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteMoveRegionAndPointsCommand.MoveSubregionAndPoints(Autodesk.Revit.UI.UIDocument)">
+            <summary>
+            Moves a subregion and the associated topography to a new user-selected location.
+            </summary>
+            <param name="uiDoc">The document.</param>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteNormalizeTerrainInRegionCommand">
+            <summary>
+            A command that normalizes all points in a region to the average elevation.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteNormalizeTerrainInRegionCommand.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implementation of the external command.
+            </summary>
+            <param name="commandData"></param>
+            <param name="message"></param>
+            <param name="elements"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteNormalizeTerrainInRegionCommand.NormalizeSubregionAndPoints(Autodesk.Revit.UI.UIDocument)">
+            <summary>
+            Normalizes all points in the selected subregion to the average elevation of the host surface.
+            </summary>
+            <param name="uiDoc">The document.</param>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteRaiseTerrainInRegionCommand">
+            <summary>
+            Raised all points contained in a subregion by 3 feet.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteRaiseTerrainInRegionCommand.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implementation of the external command.
+            </summary>
+            <param name="commandData"></param>
+            <param name="message"></param>
+            <param name="elements"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteUIUtils">
+            <summary>
+            User interface utilities for site editing commands.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteUIUtils.ChangeSubregionAndPointsElevation(Autodesk.Revit.UI.UIDocument,System.Double)">
+            <summary>
+            Changes the elevation of all points in the subregion by a designated delta.
+            </summary>
+            <param name="uiDoc">The document.</param>
+            <param name="elevationDelta">The change in elevation.</param>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteUIUtils.PickSubregion(Autodesk.Revit.UI.UIDocument)">
+            <summary>
+            Prompts the user to pick a subregion.
+            </summary>
+            <param name="uiDoc">The document.</param>
+            <returns>The selected subregion.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteUIUtils.PickTopographySurface(Autodesk.Revit.UI.UIDocument)">
+            <summary>
+            Prompts the user to pick a TopographySurface (non-subregion).
+            </summary>
+            <param name="uiDoc">The document.</param>
+            <returns>The selected TopographySurface.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteUIUtils.PickPointNearToposurface(Autodesk.Revit.UI.UIDocument,Autodesk.Revit.DB.Architecture.TopographySurface,System.String)">
+            <summary>
+            Prompts the user to select a point, and returns a point near to the associated TopographySurface.
+            </summary>
+            <param name="uiDoc">The document.</param>
+            <param name="toposurface">The target topography surface.</param>
+            <param name="message">The selection message.</param>
+            <returns>The point.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteUIUtils.SubRegionSelectionFilter">
+            <summary>
+            A selection filter that passes subregions.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteUIUtils.SubRegionSelectionFilter.AllowElement(Autodesk.Revit.DB.Element)">
+            <summary>
+            Implementation of the filter method.
+            </summary>
+            <param name="element"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteUIUtils.SubRegionSelectionFilter.AllowReference(Autodesk.Revit.DB.Reference,Autodesk.Revit.DB.XYZ)">
+            <summary>
+            Implementation of the filter method.  
+            </summary>
+            <param name="refer"></param>
+            <param name="point"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.Site.CS.SiteUIUtils.TopographySurfaceSelectionFilter">
+            <summary>
+            A selection filter to pass topography surfaces which don't represent subregions.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteUIUtils.TopographySurfaceSelectionFilter.AllowElement(Autodesk.Revit.DB.Element)">
+            <summary>
+            Implementation of the filter method.
+            </summary>
+            <param name="element"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.Site.CS.SiteUIUtils.TopographySurfaceSelectionFilter.AllowReference(Autodesk.Revit.DB.Reference,Autodesk.Revit.DB.XYZ)">
+            <summary>
+            Implementation of the filter method.
+            </summary>
+            <param name="refer"></param>
+            <param name="point"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

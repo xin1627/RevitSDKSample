@@ -1,0 +1,9 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\bin\Release\PowerCircuit.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\bin\Release\PowerCircuit.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\obj\x64\Release\Revit.SDK.Samples.PowerCircuit.CS.EditCircuitForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\obj\x64\Release\Revit.SDK.Samples.PowerCircuit.CS.CircuitOperationForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\obj\x64\Release\Revit.SDK.Samples.PowerCircuit.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\obj\x64\Release\Revit.SDK.Samples.PowerCircuit.CS.SelectCircuitForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\obj\x64\Release\PowerCircuit.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\obj\x64\Release\PowerCircuit.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PowerCircuit\CS\obj\x64\Release\PowerCircuit.pdb

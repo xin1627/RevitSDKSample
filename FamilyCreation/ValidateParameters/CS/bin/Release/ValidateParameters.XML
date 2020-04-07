@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ValidateParameters</name>
+    </assembly>
+    <members>
+        <member name="T:Revit.SDK.Samples.ValidateParameters.CS.Command">
+            <summary>
+            A class inherits IExternalCommand interface.
+            this class controls the class which subscribes handle events and the events' information UI.
+            like a bridge between them.
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ValidateParameters.CS.Command.m_familyManager">
+            <summary>
+            store the family manager
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.Command.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.Command.ValidateParameters(Autodesk.Revit.DB.FamilyManager)">
+            <summary>
+            implementation of validate parameters, get all family types and parameters, 
+            use the function FamilyType.HasValue() to make sure if the parameter needs to
+            validate. Then along to the storage type to validate the parameters.
+            </summary>
+            <returns>error information list</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.ValidateParameters.CS.Application">
+            <summary>
+            A class inherits IExternalApplication interface to add an event to the document saving,
+            which will be called when the document is being saved.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.Application.OnStartup(Autodesk.Revit.UI.UIControlledApplication)">
+            <summary>
+            Implement this method to implement the external application which should be called when 
+            Revit starts before a file or default template is actually loaded.
+            </summary>
+            <param name="application">An object that is passed to the external application 
+            which contains the controlled application.</param>
+            <returns>Return the status of the external application. 
+            A result of Succeeded means that the external application successfully started. 
+            Cancelled can be used to signify that the user cancelled the external operation at 
+            some point.
+            If false is returned then Revit should inform the user that the external application 
+            failed to load and the release the internal reference.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.Application.OnShutdown(Autodesk.Revit.UI.UIControlledApplication)">
+            <summary>
+            Implement this method to implement the external application which should be called when 
+            Revit is about to exit,Any documents must have been closed before this method is called.
+            </summary>
+            <param name="application">An object that is passed to the external application 
+            which contains the controlled application.</param>
+            <returns>Return the status of the external application. 
+            A result of Succeeded means that the external application successfully shutdown. 
+            Cancelled can be used to signify that the user cancelled the external operation at 
+            some point.
+            If false is returned then the Revit user should be warned of the failure of the external 
+            application to shut down correctly.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.Application.application_DocumentSaving(System.Object,Autodesk.Revit.DB.Events.DocumentSavingEventArgs)">
+            <summary>
+            Subscribe to the DocumentSaving event to be notified when Revit is just about to save the document. 
+            </summary>
+            <param name="sender">sender</param>
+            <param name="e">The event argument used by DocumentSaving event. </param>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.Application.application_DocumentSavingAs(System.Object,Autodesk.Revit.DB.Events.DocumentSavingAsEventArgs)">
+            <summary>
+            Subscribe to the DocumentSavingAs event to be notified when Revit is just about to save the document with a new file name. 
+            </summary>
+            <param name="sender">sender</param>
+            <param name="e">The event argument used by DocumentSavingAs event.</param>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.Application.validateParameters(Autodesk.Revit.DB.Document)">
+            <summary>
+            The method is to validate parameters via FamilyParameter and FamilyType
+            </summary>
+            <param name="doc">the document which need to validate parameters</param>
+        </member>
+        <member name="T:Revit.SDK.Samples.ValidateParameters.CS.MessageForm">
+            <summary>
+            The form is used to show the result
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ValidateParameters.CS.MessageForm.m_logFileName">
+            <summary>
+            store the log file name
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.MessageForm.#ctor">
+            <summary>
+            construction of form
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.MessageForm.#ctor(System.String[])">
+            <summary>
+            construction method with parameter
+            </summary>
+            <param name="messages">messages</param>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.MessageForm.WriteLog(System.String)">
+            <summary>
+            The method is used to write line to log file
+            </summary>
+            <param name="logStr">the log string</param>
+        </member>
+        <member name="F:Revit.SDK.Samples.ValidateParameters.CS.MessageForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.MessageForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Revit.SDK.Samples.ValidateParameters.CS.MessageForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

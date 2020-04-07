@@ -1,0 +1,16 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\bin\Release\DockableDialogs.addin
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\bin\Release\Resources\Hide.png
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\bin\Release\Resources\Register.png
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\bin\Release\Resources\Show.png
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\bin\Release\DockableDialogs.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\bin\Release\DockableDialogs.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\DockableDialogs.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\DockingSetupDialog\DockingSetupDialog.baml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\DockingSetupDialog\DockingSetupDialog.g.cs
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\MainPage\MainPage.g.cs
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\DockableDialogs_MarkupCompile.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\DockableDialogs_MarkupCompile.lref
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\MainPage\MainPage.baml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\DockableDialogs.g.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\DockableDialogs.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DockableDialogs\CS\obj\x64\Release\DockableDialogs.pdb

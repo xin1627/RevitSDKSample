@@ -1,0 +1,13 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\bin\Release\GetSetDefaultTypes.addin
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\bin\Release\Resources\type.png
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\bin\Release\GetSetDefaultTypes.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\bin\Release\GetSetDefaultTypes.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\GetSetDefaultTypes.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\DefaultElementTypes.baml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\DefaultFamilyTypes.baml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\DefaultElementTypes.g.cs
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\DefaultFamilyTypes.g.cs
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\GetSetDefaultTypes_MarkupCompile.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\GetSetDefaultTypes.g.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\GetSetDefaultTypes.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GetSetDefaultTypes\CS\obj\x64\Release\GetSetDefaultTypes.pdb

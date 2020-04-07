@@ -1,0 +1,8 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainSystem\CS\bin\Release\CurtainSystem.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainSystem\CS\bin\Release\CurtainSystem.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainSystem\CS\obj\x64\Release\Revit.SDK.Samples.CurtainSystem.CS.UI.CreateCurtainSystemDialog.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainSystem\CS\obj\x64\Release\Revit.SDK.Samples.CurtainSystem.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainSystem\CS\obj\x64\Release\Revit.SDK.Samples.CurtainSystem.CS.UI.CurtainForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainSystem\CS\obj\x64\Release\CurtainSystem.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainSystem\CS\obj\x64\Release\CurtainSystem.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainSystem\CS\obj\x64\Release\CurtainSystem.pdb

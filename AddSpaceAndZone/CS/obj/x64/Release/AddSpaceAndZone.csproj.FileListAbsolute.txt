@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AddSpaceAndZone\CS\bin\Release\AddSpaceAndZone.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AddSpaceAndZone\CS\bin\Release\AddSpaceAndZone.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AddSpaceAndZone\CS\obj\x64\Release\Revit.SDK.Samples.AddSpaceAndZone.CS.MainForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AddSpaceAndZone\CS\obj\x64\Release\Revit.SDK.Samples.AddSpaceAndZone.CS.ZoneEditorForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AddSpaceAndZone\CS\obj\x64\Release\AddSpaceAndZone.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AddSpaceAndZone\CS\obj\x64\Release\AddSpaceAndZone.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AddSpaceAndZone\CS\obj\x64\Release\AddSpaceAndZone.pdb

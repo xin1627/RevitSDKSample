@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeckProperties\CS\bin\Release\DeckProperties.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeckProperties\CS\bin\Release\DeckProperties.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeckProperties\CS\obj\x64\Release\Revit.SDK.Samples.DeckProperties.CS.DeckPropertyForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeckProperties\CS\obj\x64\Release\DeckProperties.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeckProperties\CS\obj\x64\Release\DeckProperties.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeckProperties\CS\obj\x64\Release\DeckProperties.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeckProperties\CS\obj\x64\Release\DeckProperties.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TagBeam\CS\bin\Release\TagBeam.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TagBeam\CS\bin\Release\TagBeam.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TagBeam\CS\obj\x64\Release\Revit.SDK.Samples.TagBeam.CS.TagBeamForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TagBeam\CS\obj\x64\Release\TagBeam.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TagBeam\CS\obj\x64\Release\TagBeam.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TagBeam\CS\obj\x64\Release\TagBeam.pdb

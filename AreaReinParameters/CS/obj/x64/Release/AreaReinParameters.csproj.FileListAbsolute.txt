@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AreaReinParameters\CS\bin\Release\AreaReinParameters.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AreaReinParameters\CS\bin\Release\AreaReinParameters.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AreaReinParameters\CS\obj\x64\Release\Revit.SDK.Samples.AreaReinParameters.CS.AreaReinParametersForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AreaReinParameters\CS\obj\x64\Release\AreaReinParameters.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AreaReinParameters\CS\obj\x64\Release\AreaReinParameters.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AreaReinParameters\CS\obj\x64\Release\AreaReinParameters.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AreaReinParameters\CS\obj\x64\Release\AreaReinParameters.csprojResolveAssemblyReference.cache

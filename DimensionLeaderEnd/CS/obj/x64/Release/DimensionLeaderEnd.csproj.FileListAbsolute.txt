@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DimensionLeaderEnd\CS\bin\Release\DimensionLeaderEnd.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DimensionLeaderEnd\CS\bin\Release\DimensionLeaderEnd.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DimensionLeaderEnd\CS\obj\x64\Release\DimensionLeaderEnd.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DimensionLeaderEnd\CS\obj\x64\Release\DimensionLeaderEnd.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DimensionLeaderEnd\CS\obj\x64\Release\DimensionLeaderEnd.csprojResolveAssemblyReference.cache

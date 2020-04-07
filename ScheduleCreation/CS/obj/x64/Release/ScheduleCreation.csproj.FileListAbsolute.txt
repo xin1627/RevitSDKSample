@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ScheduleCreation\CS\bin\Release\ScheduleCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ScheduleCreation\CS\bin\Release\ScheduleCreation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ScheduleCreation\CS\obj\x64\Release\ScheduleCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ScheduleCreation\CS\obj\x64\Release\ScheduleCreation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ScheduleCreation\CS\obj\x64\Release\ScheduleCreation.csprojResolveAssemblyReference.cache

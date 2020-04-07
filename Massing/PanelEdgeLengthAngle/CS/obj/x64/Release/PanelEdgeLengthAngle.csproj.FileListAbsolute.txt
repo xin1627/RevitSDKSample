@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PanelEdgeLengthAngle\CS\bin\Release\PanelEdgeLengthAngle.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PanelEdgeLengthAngle\CS\bin\Release\PanelEdgeLengthAngle.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PanelEdgeLengthAngle\CS\obj\x64\Release\PanelEdgeLengthAngle.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PanelEdgeLengthAngle\CS\obj\x64\Release\PanelEdgeLengthAngle.pdb

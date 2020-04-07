@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Journaling\CS\bin\Release\Journaling.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Journaling\CS\bin\Release\Journaling.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Journaling\CS\obj\x64\Release\Revit.SDK.Samples.Journaling.CS.JournalingForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Journaling\CS\obj\x64\Release\Revit.SDK.Samples.ModelLines.CS.PointUserControl.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Journaling\CS\obj\x64\Release\Journaling.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Journaling\CS\obj\x64\Release\Journaling.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Journaling\CS\obj\x64\Release\Journaling.pdb

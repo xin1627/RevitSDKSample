@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RoomViewer\VB.NET\bin\x64\Release\RoomViewer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RoomViewer\VB.NET\bin\x64\Release\RoomViewer.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RoomViewer\VB.NET\bin\x64\Release\RevitViewer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RoomViewer\VB.NET\bin\x64\Release\RevitViewer.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RoomViewer\VB.NET\obj\x64\Release\RoomViewer.vbprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RoomViewer\VB.NET\obj\x64\Release\RoomViewer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RoomViewer\VB.NET\obj\x64\Release\RoomViewer.xml

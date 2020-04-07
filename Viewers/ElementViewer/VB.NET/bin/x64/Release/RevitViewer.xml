@@ -1,0 +1,321 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RevitViewer
+</name>
+</assembly>
+<members>
+<member name="T:RevitViewer.RevitViewer">
+ <summary>
+ Implements the Revit add-in interface IExternalCommand
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.RevitViewer.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+ <summary>
+ Implement this method as an external command for Revit.
+ </summary>
+ <param name="commandData">An object that is passed to the external application 
+ which contains data related to the command, 
+ such as the application object and active view.</param>
+ <param name="message">A message that can be set by the external application 
+ which will be displayed if a failure or cancellation is returned by 
+ the external command.</param>
+ <param name="elements">A set of elements to which the external application 
+ can add elements that are to be highlighted in case of failure or cancellation.</param>
+ <returns>Return the status of the external command. 
+ A result of Succeeded means that the API external method functioned as expected. 
+ Cancelled can be used to signify that the user cancelled the external operation 
+ at some point. Failure should be returned if the application is unable to proceed with 
+ the operation.</returns>
+</member>
+<member name="T:RevitViewer.Line">
+ <summary>
+ Wrapped line object.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:RevitViewer.Point">
+ <summary>
+ Wrpped point object.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.ScaleWidth">
+ <summary>
+ return the width to be fit.
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.ScaleHeight">
+ <summary>
+ return the height to be fit.
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.DrawLine(System.Drawing.Graphics@,System.Double,System.Double,System.Double,System.Double)">
+ <summary>
+ draw primitive line using the System.Drawing.Graphics object
+ </summary>
+ <param name="gs"></param>
+ <param name="x1"></param>
+ <param name="y1"></param>
+ <param name="x2"></param>
+ <param name="y2"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.Clear(System.Drawing.Graphics@)">
+ <summary>
+ clear the graphics' drawing.
+ </summary>
+ <param name="gs"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.ViewerWindow_KeyDown(System.Object,System.Windows.Forms.KeyEventArgs)">
+ <summary>
+ Occurs when a key is pressed while the control has focus.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.RenderPane_KeyDown(System.Object,System.Windows.Forms.KeyEventArgs)">
+ <summary>
+ To handle keyboard events
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.Initialize(RevitViewer.Wireframe)">
+ <summary>
+ Initialize wire frame to be display.
+ </summary>
+ <param name="viewerObject"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.ViewerWindow_MouseWheel(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Occurs when the mouse wheel moves while the control has focus.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.PanUpButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ translate model up.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.PanRightButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ translate model right.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.PanDownButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ translate model down.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.PanLeftButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ translate model left.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.RotateUpButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ rotate around X axis with default angle.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.RotateRightButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ rotate around Y axis with default angle.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.RotateDownButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ rotate around X axis with default angle.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.RotateLeftButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ rotate around Y axis with default angle.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.ZoomInButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ zoom in model to display.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.ZoomOutButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ zoom out model to display.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.ViewerWindow_SizeChanged(System.Object,System.EventArgs)">
+ <summary>
+ Occurs when the Size property value changes. 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.ViewerWindow_Load(System.Object,System.EventArgs)">
+ <summary>
+ Occurs before a form is displayed for the first time. 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.RenderPane_DoubleClick(System.Object,System.EventArgs)">
+ <summary>
+ Occurs when the control is double-clicked.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.ViewerWindow.RenderPane_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+ <summary>
+ Occurs when the control is redrawn.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="T:RevitViewer.Wireframe">
+ <summary>
+ Wrapped wire frame of element to be drawn.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.FindMinMax(System.Double@,System.Double@,System.Double@,System.Double@,System.Double@,System.Double@)">
+ <summary>
+ update the bound to be display.
+ </summary>
+ <param name="xMin"></param>
+ <param name="xMax"></param>
+ <param name="yMin"></param>
+ <param name="yMax"></param>
+ <param name="zMin"></param>
+ <param name="zMax"></param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.Fit">
+ <summary>
+ zoom the model to fit to display.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.Add(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+ <summary>
+ add the primititive line.
+ </summary>
+ <param name="x1">the the first coordinate of start point</param>
+ <param name="y1">the the second coordinate of start point</param>
+ <param name="z1">the the third coordinate of start point</param>
+ <param name="x2">the the first coordinate of end point</param>
+ <param name="y2">the the second coordinate of end point</param>
+ <param name="z2">the the third coordinate of end point</param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.RotateXY(System.Double)">
+ <summary>
+ rotate around Z axis with spcified angle.
+ </summary>
+ <param name="angle">the angle to rotate.</param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.RotateYZ(System.Double)">
+ <summary>
+ rotate around X axis with spcified angle.
+ </summary>
+ <param name="angle">the angle to rotate.</param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.RotateXZ(System.Double)">
+ <summary>
+ rotate around Y axis with spcified angle.
+ </summary>
+ <param name="angle">the angle to rotate.</param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.TranslateX(System.Double)">
+ <summary>
+ translate in X axis with the specified distance.
+ </summary>
+ <param name="translation">the specified distance.</param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.TranslateY(System.Double)">
+ <summary>
+ translate in Y axis with the specified distance.
+ </summary>
+ <param name="translation">the specified distance.</param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.Zoom(System.Double)">
+ <summary>
+ zoom the model with the specified amount.
+ </summary>
+ <param name="amount">the specified amount.</param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.KeyDown(System.Int32,System.Boolean,System.Boolean)">
+ <summary>
+ respond the UI operation.
+ </summary>
+ <param name="keyCode">the pressed key code</param>
+ <param name="shiftKey">if the shift key is pressed</param>
+ <param name="ctrlKey">if the ctrl key is pressed</param>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.ShowModal">
+ <summary>
+ draw the wire frame in a picture box.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:RevitViewer.Wireframe.GetTotalNumberLines">
+ <summary>
+ get the total number of lines.
+ </summary>
+ <returns>the total number of lines.</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

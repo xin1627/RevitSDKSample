@@ -1,0 +1,2 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarFreeForm\CS\bin\Release\RebarFreeForm.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarFreeForm\CS\obj\x64\Release\RebarFreeForm.dll

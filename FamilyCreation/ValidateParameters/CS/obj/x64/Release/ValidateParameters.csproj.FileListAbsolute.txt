@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\ValidateParameters\CS\bin\Release\ValidateParameters.XML
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\ValidateParameters\CS\bin\Release\ValidateParameters.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\ValidateParameters\CS\bin\Release\ValidateParameters.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\ValidateParameters\CS\obj\x64\Release\Revit.SDK.Samples.ValidateParameters.CS.MessageForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\ValidateParameters\CS\obj\x64\Release\ValidateParameters.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\ValidateParameters\CS\obj\x64\Release\ValidateParameters.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\ValidateParameters\CS\obj\x64\Release\ValidateParameters.pdb

@@ -1,0 +1,3 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeleteObject\CS\bin\Release\DeleteObject.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeleteObject\CS\obj\x64\Release\DeleteObject.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeleteObject\CS\obj\x64\Release\DeleteObject.csprojResolveAssemblyReference.cache

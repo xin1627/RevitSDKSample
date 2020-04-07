@@ -1,0 +1,10 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\bin\Release\ViewPrinter.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\bin\Release\ViewPrinter.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\obj\x64\Release\Revit.SDK.Samples.ViewPrinter.CS.PrintMgrForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\obj\x64\Release\Revit.SDK.Samples.ViewPrinter.CS.PrintSetupForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\obj\x64\Release\Revit.SDK.Samples.ViewPrinter.CS.ReNameForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\obj\x64\Release\Revit.SDK.Samples.ViewPrinter.CS.SaveAsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\obj\x64\Release\Revit.SDK.Samples.ViewPrinter.CS.viewSheetSetForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\obj\x64\Release\ViewPrinter.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\obj\x64\Release\ViewPrinter.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ViewPrinter\CS\obj\x64\Release\ViewPrinter.pdb

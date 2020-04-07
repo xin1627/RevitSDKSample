@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\EnergyAnalysisModel\CS\bin\Release\EnergyAnalysisModel.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\EnergyAnalysisModel\CS\bin\Release\EnergyAnalysisModel.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\EnergyAnalysisModel\CS\obj\x64\Release\Revit.SDK.Samples.EnergyAnalysisModel.CS.OptionsAndAnalysisForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\EnergyAnalysisModel\CS\obj\x64\Release\EnergyAnalysisModel.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\EnergyAnalysisModel\CS\obj\x64\Release\EnergyAnalysisModel.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\EnergyAnalysisModel\CS\obj\x64\Release\EnergyAnalysisModel.pdb

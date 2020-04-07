@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MaterialQuantities\CS\bin\Release\MaterialQuantities.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MaterialQuantities\CS\bin\Release\MaterialQuantities.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MaterialQuantities\CS\obj\x64\Release\MaterialQuantities.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MaterialQuantities\CS\obj\x64\Release\MaterialQuantities.pdb

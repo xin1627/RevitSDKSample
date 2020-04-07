@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\MeasurePanelArea\CS\bin\Release\MeasurePanelArea.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\MeasurePanelArea\CS\bin\Release\MeasurePanelArea.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\MeasurePanelArea\CS\obj\x64\Release\Revit.SDK.Samples.MeasurePanelArea.CS.frmPanelArea.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\MeasurePanelArea\CS\obj\x64\Release\MeasurePanelArea.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\MeasurePanelArea\CS\obj\x64\Release\MeasurePanelArea.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\MeasurePanelArea\CS\obj\x64\Release\MeasurePanelArea.pdb

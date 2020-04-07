@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CapitalizeAllTextNotes\CS\bin\Release\CapitalizeAllTextNotes.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CapitalizeAllTextNotes\CS\bin\Release\CapitalizeAllTextNotes.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CapitalizeAllTextNotes\CS\obj\x64\Release\CapitalizeAllTextNotes.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CapitalizeAllTextNotes\CS\obj\x64\Release\CapitalizeAllTextNotes.pdb

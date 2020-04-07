@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ProjectInfo\CS\bin\Release\ProjectInfo.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ProjectInfo\CS\bin\Release\ProjectInfo.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ProjectInfo\CS\obj\x64\Release\Revit.SDK.Samples.ProjectInfo.CS.ProjectInfoForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ProjectInfo\CS\obj\x64\Release\ProjectInfo.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ProjectInfo\CS\obj\x64\Release\ProjectInfo.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ProjectInfo\CS\obj\x64\Release\ProjectInfo.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ProjectInfo\CS\obj\x64\Release\ProjectInfo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AnalyticalViewer
+</name>
+</assembly>
+<members>
+<member name="T:Revit.SDK.Samples.AnalyticalViewer.VB.NET.AnalyticalViewer">
+ <summary>
+ Implements the Revit add-in interface IExternalCommand
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.AnalyticalViewer.VB.NET.AnalyticalViewer.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+ <summary>
+ Implement this method as an external command for Revit.
+ </summary>
+ <param name="commandData">An object that is passed to the external application 
+ which contains data related to the command, 
+ such as the application object and active view.</param>
+ <param name="message">A message that can be set by the external application 
+ which will be displayed if a failure or cancellation is returned by 
+ the external command.</param>
+ <param name="elements">A set of elements to which the external application 
+ can add elements that are to be highlighted in case of failure or cancellation.</param>
+ <returns>Return the status of the external command. 
+ A result of Succeeded means that the API external method functioned as expected. 
+ Cancelled can be used to signify that the user cancelled the external operation 
+ at some point. Failure should be returned if the application is unable to proceed with 
+ the operation.</returns>
+</member>
+<member name="M:Revit.SDK.Samples.AnalyticalViewer.VB.NET.AnalyticalViewer.DrawAnalyticalModel(Autodesk.Revit.DB.Element)">
+ <summary>
+ distribute analytical model to its corresponding method to be draw.
+ </summary>
+ <param name="element"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.AnalyticalViewer.VB.NET.AnalyticalViewer.DrawAnalyticalModelCurve(Autodesk.Revit.DB.Curve)">
+ <summary>
+ Draw the primitive curve.
+ </summary>
+ <param name="curve"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.AnalyticalViewer.VB.NET.AnalyticalViewer.DrawAnalyticalModelCurves(System.Collections.Generic.IList{Autodesk.Revit.DB.Curve})">
+ <summary>
+ Draw the primitive curve array.
+ </summary>
+ <param name="curves"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.AnalyticalViewer.VB.NET.AnalyticalViewer.DrawAnalyticalModelLocation(Autodesk.Revit.DB.Structure.AnalyticalModel)">
+ <summary>
+ draw analytical location model
+ </summary>
+ <param name="analyticalModel"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\bin\Release\ExtensibleStorageManager.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\bin\Release\ExtensibleStorageManager.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\bin\Release\SchemaWrapperTools.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\bin\Release\SchemaWrapperTools.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\ExtensibleStorageManager.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\User\UICommand.baml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\User\UIData.baml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\User\UICommand.g.cs
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\User\UIData.g.cs
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\ExtensibleStorageManager_MarkupCompile.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\ExtensibleStorageManager.g.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\ExtensibleStorageManager.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\ExtensibleStorageManager\CS\obj\x64\Release\ExtensibleStorageManager.pdb

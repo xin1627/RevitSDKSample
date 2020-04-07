@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructSample\CS\bin\Release\StructSample.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructSample\CS\bin\Release\StructSample.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructSample\CS\obj\x64\Release\StructSample.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructSample\CS\obj\x64\Release\StructSample.pdb

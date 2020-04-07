@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FabricationPartLayout</name>
+    </assembly>
+    <members>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.ChangeService">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.ChangeService.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.ChangeSize">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.ChangeSize.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.ApplyChange">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.ApplyChange.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.ExportToMAJ">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.ExportToMAJ.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.LoadAndPlaceNextItemFile">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.LoadAndPlaceNextItemFile.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.UnloadUnusedItemFiles">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.UnloadUnusedItemFiles.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.SplitStraight">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.SplitStraight.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.PartRenumber">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.PartRenumber.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.PartRenumber.IsADuct(Autodesk.Revit.DB.FabricationPart)">
+            <summary>
+            Checks if the given part is fabrication ductwork.
+            </summary>
+            <param name="fabPart">The part to check.</param>
+            <returns>True if the part is fabrication ductwork.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.PartRenumber.IsAPipe(Autodesk.Revit.DB.FabricationPart)">
+            <summary>
+            Checks if the part is fabrication pipework.
+            </summary>
+            <param name="fabPart">The part to check.</param>
+            <returns>True if the part is fabrication pipework.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.PartRenumber.IsACoupling(Autodesk.Revit.DB.FabricationPart)">
+            <summary>
+            Checks if the part is a coupling. 
+            The CID's (the fabrication part item customer Id) that are recognized internally as couplings are:
+              CID 522, 1112 - Round Ductwork
+              CID 1522 - Oval Ductwork
+              CID 4522 - Rectangular Ductwork
+              CID 2522 - Pipe Work
+              CID 3522 - Electrical
+            </summary>
+            <param name="fabPart">The part to check.</param>
+            <returns>True if the part is a coupling.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.DetachRods">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.DetachRods.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.DoubleRodLength">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.DoubleRodLength.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.HalveRodLength">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.HalveRodLength.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.IncreaseRodStructureExtension">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.IncreaseRodStructureExtension.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.DecreaseRodStructureExtension">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.DecreaseRodStructureExtension.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.PartInfo">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.PartInfo.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.ExportToPCF">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.ExportToPCF.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.CustomDataHelper">
+            <summary>
+            Helper class to report custom data from fabrication part selection.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.CustomDataHelper.ReportCustomData(Autodesk.Revit.DB.Document,Autodesk.Revit.UI.UIDocument,System.Boolean,System.String@)">
+            <summary>
+            Report the custom data.
+            </summary>
+            <param name="doc"></param>
+            <param name="uiDoc"></param>
+            <param name="setNewValues"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.GetCustomData">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.GetCustomData.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.SetCustomData">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.SetCustomData.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.Ancillaries">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.Ancillaries.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.ButtonGroupExclusions">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.ButtonGroupExclusions.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.ConvertToFabrication">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.ConvertToFabrication.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.GetDimValue(Autodesk.Revit.DB.FabricationPart,System.String)">
+            <summary>
+            Convenience method to get fabrication part's dimension value, specified by the dimension name.
+            </summary>
+            <param name="part">
+            The fabrication part to be queried.
+            </param>
+            <param name="dimName">
+            The name of the fabrication dimension.
+            </param>
+            <returns>
+            Returns the fabrication dimension value for the fabrication part, as specified by the dimension name.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.SetDimValue(Autodesk.Revit.DB.FabricationPart,System.String,System.Double)">
+            <summary>
+            Convenience method to set fabrication part's dimension value, specified by the dimension name.
+            </summary>
+            <param name="part">
+            The fabrication part.
+            </param>
+            <param name="dimName">
+            The name of the fabrication dimension.
+            </param>
+            <param name="dimValue">
+            The value of the fabrication dimension to set to.
+            </param>
+            <returns>
+            Returns the fabrication dimension value for the fabrication part, as specified by the dimension name.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.SizeAlignCoupleConnect(Autodesk.Revit.DB.Connector,Autodesk.Revit.DB.Connector,System.Double)">
+            <summary>
+            Convenience method to automatically size, align, couple (if needed) and connect two fabrication part
+            by the specified connectors.
+            </summary>
+            <param name="conn_from">
+            The connector to align by of the fabrication part to move.
+            </param>
+            <param name="conn_to">
+            The connector to align to.
+            </param>
+            <param name="rotation">
+            Rotation around the direction of connection - angle between width vectors in radians. 
+            </param>
+            <returns>
+            Returns the fabrication dimension value for the fabrication part, as specified by the dimension name.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.SizeAlignSlopeJustifyCoupleConnect(Autodesk.Revit.DB.Connector,Autodesk.Revit.DB.Connector,System.Double,System.Double,Autodesk.Revit.DB.Fabrication.FabricationPartJustification)">
+            <summary>
+            Convenience method to automatically size, align, slope, justification couple (if needed) and connect two fabrication parts
+            by the specified connectors.
+            </summary>
+            <param name="conn_from">
+            The connector to align by of the fabrication part to move.
+            </param>
+            <param name="conn_to">
+            The connector to align to.
+            </param>
+            <param name="rotation">
+            Rotation around the direction of connection - angle between width vectors in radians. 
+            </param>
+            <param name="slope">
+            The slope value to flex to match if possible in fractional units (eg.1/50). Positive values are up, negative are down. Slopes can only be applied
+            to fittings, whilst straights will inherit the slope from the piece it is connecting to.
+            </param>
+            <param name="justification">
+            The justification to align eccentric parts.
+            </param>
+            <returns>
+            Returns the fabrication dimension value for the fabrication part, as specified by the dimension name.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.locateButton(Autodesk.Revit.DB.FabricationService,System.Int32,System.String)">
+            <summary>
+            Convenience method to locate a fabrication service button specified by group and name.
+            </summary>
+            <param name="service">
+            The fabrication service.
+            </param>
+            <param name="group">
+            The fabrication service group index.
+            </param>
+            <param name="name">
+            The fabrication service button name.
+            </param>
+            <returns>
+            Returns the fabrication service button as specified by the fabrication service, group and name.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.CreateStraightPart(Autodesk.Revit.DB.FabricationServiceButton,System.Int32,Autodesk.Revit.DB.ElementId,System.Double)">
+            <summary>
+            Convenience method to create a straight fabrication part.
+            </summary>
+            <param name="fsb">
+            The FabricationServiceButton used to create the fabrication part from.
+            </param>
+            <param name="condition">
+            The condition index of the fabrication service button.
+            </param>
+            <param name="levelId">
+            The element identifier belonging to the level on which to create this fabrication part.
+            </param>
+            <param name="length">
+            The length, in feet, of the fabrication part to be created. 
+            </param>
+            <returns>
+            Returns a straight fabrication part, as specified by the fabrication service button, condition, level id and length.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.GetPrimaryConnector(Autodesk.Revit.DB.ConnectorManager)">
+            <summary>
+            Convenience method to get the primary connector from the specified connector manager.
+            </summary>
+            <param name="cm">
+            The connector manager.
+            </param>
+            <returns>
+            Returns the primary connector from the connector manager.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.GetSecondaryConnector(Autodesk.Revit.DB.ConnectorManager)">
+            <summary>
+            Convenience method to get the secondary connector from the specified connector manager.
+            </summary>
+            <param name="cm">
+            The connector manager.
+            </param>
+            <returns>
+            Returns the secondary connector from the connector manager.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.GetFirstNonPrimaryOrSecondaryConnector(Autodesk.Revit.DB.ConnectorManager)">
+            <summary>
+            Convenience method to get the first non-primary and non-secondary connector from the specified connector manager.
+            </summary>
+            <param name="cm">
+            The connector manager.
+            </param>
+            <returns>
+            Returns the first non-primary and non-secondary connector from the connector manager.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.GetMaterials(Autodesk.Revit.DB.FabricationConfiguration)">
+            <summary>
+            Convenience method to get all fabrication material identifiers from the
+            specified fabrication configuration.
+            </summary>
+            <param name="config">
+            The fabrication configuration.
+            </param>
+            <returns>
+            Returns a list of all the fabrication material identifiers for this
+            fabrication configuration.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.GetSpecs(Autodesk.Revit.DB.FabricationConfiguration)">
+            <summary>
+            Convenience method to get all fabrication specification identifiers from the
+            specified fabrication configuration.
+            </summary>
+            <param name="config">
+            The fabrication configuration.
+            </param>
+            <returns>
+            Returns a list of all the fabrication specification identifiers for this
+            fabrication configuration.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.GetInsulationSpecs(Autodesk.Revit.DB.FabricationConfiguration)">
+            <summary>
+            Convenience method to get all fabrication insulation specification identifiers from the
+            specified fabrication configuration.
+            </summary>
+            <param name="config">
+            The fabrication configuration.
+            </param>
+            <returns>
+            Returns a list of all the fabrication insulation specification identifiers for this
+            fabrication configuration.
+            </returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.FabricationPartLayout.GetFabricationConnectors(Autodesk.Revit.DB.FabricationConfiguration)">
+            <summary>
+            Convenience method to get all fabrication connector identifiers from the
+            specified fabrication configuration.
+            </summary>
+            <param name="config">
+            The fabrication configuration.
+            </param>
+            <returns>
+            Returns a list of all the fabrication connector identifiers for this
+            fabrication configuration.
+            </returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.OptimizeStraights">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.OptimizeStraights.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.FabricationPartLayout.CS.StretchAndFit">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.FabricationPartLayout.CS.StretchAndFit.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+    </members>
+</doc>

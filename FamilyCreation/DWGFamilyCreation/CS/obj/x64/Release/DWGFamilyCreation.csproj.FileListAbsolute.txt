@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\DWGFamilyCreation\CS\bin\Release\DWGFamilyCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\DWGFamilyCreation\CS\bin\Release\DWGFamilyCreation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\DWGFamilyCreation\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\DWGFamilyCreation\CS\obj\x64\Release\DWGFamilyCreation.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\DWGFamilyCreation\CS\obj\x64\Release\DWGFamilyCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\DWGFamilyCreation\CS\obj\x64\Release\DWGFamilyCreation.pdb

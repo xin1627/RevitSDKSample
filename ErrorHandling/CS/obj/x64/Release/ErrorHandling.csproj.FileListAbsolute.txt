@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ErrorHandling\CS\bin\Release\ErrorHandling.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ErrorHandling\CS\bin\Release\ErrorHandling.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ErrorHandling\CS\obj\x64\Release\ErrorHandling.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ErrorHandling\CS\obj\x64\Release\ErrorHandling.pdb

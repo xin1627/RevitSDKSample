@@ -1,0 +1,2 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DuplicateGraphics\CS\bin\Release\DuplicateGraphics.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DuplicateGraphics\CS\obj\x64\Release\DuplicateGraphics.dll

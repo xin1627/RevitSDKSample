@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\SchemaWrapperTools\CS\bin\Release\SchemaWrapperTools.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\SchemaWrapperTools\CS\bin\Release\SchemaWrapperTools.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\SchemaWrapperTools\CS\obj\x64\Release\SchemaWrapperTools.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\SchemaWrapperTools\CS\obj\x64\Release\SchemaWrapperTools.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExtensibleStorageManager\SchemaWrapperTools\CS\obj\x64\Release\SchemaWrapperTools.csprojResolveAssemblyReference.cache

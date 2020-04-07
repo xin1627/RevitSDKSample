@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RevitViewer\VB.NET\bin\x64\Release\RevitViewer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RevitViewer\VB.NET\bin\x64\Release\RevitViewer.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RevitViewer\VB.NET\obj\x64\Release\RevitViewer.ViewerWindow.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RevitViewer\VB.NET\obj\x64\Release\RevitViewer.vbproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RevitViewer\VB.NET\obj\x64\Release\RevitViewer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RevitViewer\VB.NET\obj\x64\Release\RevitViewer.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Viewers\RevitViewer\VB.NET\obj\x64\Release\RevitViewer.vbprojResolveAssemblyReference.cache

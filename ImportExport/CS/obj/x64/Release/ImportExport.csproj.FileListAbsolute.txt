@@ -1,0 +1,14 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\bin\Release\ImportExport.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\bin\Release\ImportExport.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.ExportDWFOptionForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.ExportDGNOptionsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.ExportIMGOptionsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.ExportWithViewsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.ExportBaseOptionsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.ImportDWGForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.MainForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.SelectViewsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\Revit.SDK.Samples.ImportExport.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\ImportExport.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\ImportExport.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ImportExport\CS\obj\x64\Release\ImportExport.pdb

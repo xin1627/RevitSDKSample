@@ -1,0 +1,8 @@
+D:\Revit 2019 SDK\Samples\Site\CS\obj\Debug\Site.csprojAssemblyReference.cache
+D:\Revit 2019 SDK\Samples\Site\CS\obj\Debug\Revit.SDK.Samples.Site.CS.Properties.Resources.resources
+D:\Revit 2019 SDK\Samples\Site\CS\obj\Debug\Site.csproj.GenerateResource.cache
+D:\Revit 2019 SDK\Samples\Site\CS\bin\Debug\Site.XML
+D:\Revit 2019 SDK\Samples\Site\CS\bin\Debug\Site.dll
+D:\Revit 2019 SDK\Samples\Site\CS\bin\Debug\Site.pdb
+D:\Revit 2019 SDK\Samples\Site\CS\obj\Debug\Site.dll
+D:\Revit 2019 SDK\Samples\Site\CS\obj\Debug\Site.pdb

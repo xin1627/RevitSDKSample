@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AppearanceAssetEditing\CS\bin\Release\AppearanceAssetEditing.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AppearanceAssetEditing\CS\obj\x64\Release\Revit.SDK.Samples.AppearanceAssetEditing.CS.AppearanceAssetEditingForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AppearanceAssetEditing\CS\obj\x64\Release\Revit.SDK.Samples.AppearanceAssetEditing.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AppearanceAssetEditing\CS\obj\x64\Release\AppearanceAssetEditing.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AppearanceAssetEditing\CS\obj\x64\Release\AppearanceAssetEditing.dll

@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeleteObject\VB.NET\bin\x64\Release\DeleteObject.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeleteObject\VB.NET\bin\x64\Release\DeleteObject.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeleteObject\VB.NET\obj\x64\Release\DeleteObject.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeleteObject\VB.NET\obj\x64\Release\DeleteObject.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DeleteObject\VB.NET\obj\x64\Release\DeleteObject.vbprojResolveAssemblyReference.cache

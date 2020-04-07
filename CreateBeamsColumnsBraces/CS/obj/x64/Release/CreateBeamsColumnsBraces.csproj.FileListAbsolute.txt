@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateBeamsColumnsBraces\CS\bin\Release\CreateBeamsColumnsBraces.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateBeamsColumnsBraces\CS\obj\x64\Release\Revit.SDK.Samples.CreateBeamsColumnsBraces.CS.CreateBeamsColumnsBracesForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateBeamsColumnsBraces\CS\obj\x64\Release\CreateBeamsColumnsBraces.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateBeamsColumnsBraces\CS\obj\x64\Release\CreateBeamsColumnsBraces.dll

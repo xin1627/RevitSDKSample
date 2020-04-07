@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ParameterUtils\CS\bin\Release\ParameterUtils.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ParameterUtils\CS\bin\Release\ParameterUtils.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ParameterUtils\CS\obj\x64\Release\Revit.SDK.Samples.ParameterUtils.CS.PropertiesForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ParameterUtils\CS\obj\x64\Release\ParameterUtils.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ParameterUtils\CS\obj\x64\Release\ParameterUtils.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ParameterUtils\CS\obj\x64\Release\ParameterUtils.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ParameterUtils\CS\obj\x64\Release\ParameterUtils.csprojResolveAssemblyReference.cache

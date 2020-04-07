@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PerformanceAdviserControl\CS\bin\Release\PerformanceAdviserControl.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PerformanceAdviserControl\CS\bin\Release\PerformanceAdviserControl.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PerformanceAdviserControl\CS\obj\x64\Release\PerformanceAdviserControl.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PerformanceAdviserControl\CS\obj\x64\Release\Revit.SDK.Samples.PerformanceAdviserControl.CS.TestDisplayDialog.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PerformanceAdviserControl\CS\obj\x64\Release\PerformanceAdviserControl.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PerformanceAdviserControl\CS\obj\x64\Release\PerformanceAdviserControl.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PerformanceAdviserControl\CS\obj\x64\Release\PerformanceAdviserControl.pdb

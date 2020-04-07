@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\APIAppStartup\CS\bin\Release\APIAppStartup.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\APIAppStartup\CS\bin\Release\APIAppStartup.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\APIAppStartup\CS\obj\x64\Release\APIAppStartup.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\APIAppStartup\CS\obj\x64\Release\APIAppStartup.SplashWindow.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\APIAppStartup\CS\obj\x64\Release\APIAppStartup.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\APIAppStartup\CS\obj\x64\Release\APIAppStartup.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\APIAppStartup\CS\obj\x64\Release\APIAppStartup.pdb

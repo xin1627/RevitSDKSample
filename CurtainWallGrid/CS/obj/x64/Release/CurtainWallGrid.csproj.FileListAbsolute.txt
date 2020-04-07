@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainWallGrid\CS\bin\Release\CurtainWallGrid.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainWallGrid\CS\bin\Release\CurtainWallGrid.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainWallGrid\CS\obj\x64\Release\Revit.SDK.Samples.CurtainWallGrid.CS.GridForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainWallGrid\CS\obj\x64\Release\CurtainWallGrid.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainWallGrid\CS\obj\x64\Release\CurtainWallGrid.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainWallGrid\CS\obj\x64\Release\CurtainWallGrid.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurtainWallGrid\CS\obj\x64\Release\CurtainWallGrid.pdb

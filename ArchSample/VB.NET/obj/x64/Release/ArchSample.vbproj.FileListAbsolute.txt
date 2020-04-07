@@ -1,0 +1,10 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\bin\x64\Release\ArchSample.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\bin\x64\Release\ArchSample.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\bin\x64\Release\office.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\bin\x64\Release\Microsoft.Vbe.Interop.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\bin\x64\Release\stdole.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\bin\x64\Release\office.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\obj\x64\Release\ArchSample.vbprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\obj\x64\Release\ArchSample.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ArchSample\VB.NET\obj\x64\Release\ArchSample.xml

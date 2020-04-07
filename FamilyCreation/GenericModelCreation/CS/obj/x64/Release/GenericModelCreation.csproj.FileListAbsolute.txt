@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\GenericModelCreation\CS\bin\Release\GenericModelCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\GenericModelCreation\CS\bin\Release\GenericModelCreation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\GenericModelCreation\CS\obj\x64\Release\GenericModelCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\GenericModelCreation\CS\obj\x64\Release\GenericModelCreation.pdb

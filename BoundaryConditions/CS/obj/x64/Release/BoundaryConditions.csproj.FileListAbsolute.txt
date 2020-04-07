@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BoundaryConditions\CS\bin\Release\BoundaryConditions.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BoundaryConditions\CS\bin\Release\BoundaryConditions.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BoundaryConditions\CS\obj\x64\Release\Revit.SDK.Samples.BoundaryConditions.CS.BoundaryConditionsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BoundaryConditions\CS\obj\x64\Release\Revit.SDK.Samples.BoundaryConditions.CS.SpringModulusForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BoundaryConditions\CS\obj\x64\Release\BoundaryConditions.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BoundaryConditions\CS\obj\x64\Release\BoundaryConditions.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BoundaryConditions\CS\obj\x64\Release\BoundaryConditions.pdb

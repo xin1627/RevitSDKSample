@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PathReinforcement\CS\bin\Release\PathReinforcement.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PathReinforcement\CS\bin\Release\PathReinforcement.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PathReinforcement\CS\obj\x64\Release\Revit.SDK.Samples.PathReinforcement.CS.PathReinforcementForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PathReinforcement\CS\obj\x64\Release\PathReinforcement.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PathReinforcement\CS\obj\x64\Release\PathReinforcement.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PathReinforcement\CS\obj\x64\Release\PathReinforcement.pdb

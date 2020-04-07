@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InPlaceMembers\CS\bin\Release\InPlaceMembers.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InPlaceMembers\CS\bin\Release\InPlaceMembers.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InPlaceMembers\CS\obj\x64\Release\Revit.SDK.Samples.InPlaceMembers.CS.InPlaceMembersForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InPlaceMembers\CS\obj\x64\Release\Revit.SDK.Samples.InPlaceMembers.CS.PictureBox3D.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InPlaceMembers\CS\obj\x64\Release\InPlaceMembers.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InPlaceMembers\CS\obj\x64\Release\InPlaceMembers.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InPlaceMembers\CS\obj\x64\Release\InPlaceMembers.pdb

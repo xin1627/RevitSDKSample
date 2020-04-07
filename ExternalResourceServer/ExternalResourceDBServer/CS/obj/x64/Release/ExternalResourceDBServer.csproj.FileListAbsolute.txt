@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalResourceServer\ExternalResourceDBServer\CS\bin\Release\ExternalResourceDBServer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalResourceServer\ExternalResourceDBServer\CS\bin\Release\ExternalResourceDBServer.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalResourceServer\ExternalResourceDBServer\CS\obj\x64\Release\ExternalResourceDBServer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalResourceServer\ExternalResourceDBServer\CS\obj\x64\Release\ExternalResourceDBServer.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalResourceServer\ExternalResourceDBServer\CS\obj\x64\Release\ExternalResourceDBServer.csprojResolveAssemblyReference.cache

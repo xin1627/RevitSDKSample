@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FabricationPartLayout\CS\bin\Release\FabricationPartLayout.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FabricationPartLayout\CS\bin\Release\FabricationPartLayout.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FabricationPartLayout\CS\bin\Release\FabricationPartLayout.XML
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FabricationPartLayout\CS\obj\x64\Release\FabricationPartLayout.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FabricationPartLayout\CS\obj\x64\Release\FabricationPartLayout.pdb

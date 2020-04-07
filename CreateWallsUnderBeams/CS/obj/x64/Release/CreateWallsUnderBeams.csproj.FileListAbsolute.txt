@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateWallsUnderBeams\CS\bin\Release\CreateWallsUnderBeams.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateWallsUnderBeams\CS\bin\Release\CreateWallsUnderBeams.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateWallsUnderBeams\CS\obj\x64\Release\CreateWallsUnderBeams.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateWallsUnderBeams\CS\obj\x64\Release\Revit.SDK.Samples.CreateWallsUnderBeams.CS.CreateWallsUnderBeamsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateWallsUnderBeams\CS\obj\x64\Release\CreateWallsUnderBeams.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateWallsUnderBeams\CS\obj\x64\Release\CreateWallsUnderBeams.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CreateWallsUnderBeams\CS\obj\x64\Release\CreateWallsUnderBeams.pdb

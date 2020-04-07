@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoomSchedule\CS\bin\Release\RoomSchedule.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoomSchedule\CS\bin\Release\RoomSchedule.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoomSchedule\CS\obj\x64\Release\Revit.SDK.Samples.RoomSchedule.RoomScheduleForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoomSchedule\CS\obj\x64\Release\RoomSchedule.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoomSchedule\CS\obj\x64\Release\RoomSchedule.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoomSchedule\CS\obj\x64\Release\RoomSchedule.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoomSchedule\CS\obj\x64\Release\RoomSchedule.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\TypeRegeneration\CS\bin\Release\TypeRegeneration.XML
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\TypeRegeneration\CS\bin\Release\TypeRegeneration.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\TypeRegeneration\CS\bin\Release\TypeRegeneration.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\TypeRegeneration\CS\obj\x64\Release\Revit.SDK.Samples.TypeRegeneration.CS.MessageForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\TypeRegeneration\CS\obj\x64\Release\TypeRegeneration.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\TypeRegeneration\CS\obj\x64\Release\TypeRegeneration.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\TypeRegeneration\CS\obj\x64\Release\TypeRegeneration.pdb

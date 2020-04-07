@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TestWallThickness\VB.NET\bin\x64\Release\TestWallThickness.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TestWallThickness\VB.NET\bin\x64\Release\TestWallThickness.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TestWallThickness\VB.NET\obj\x64\Release\TestWallThickness.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TestWallThickness\VB.NET\obj\x64\Release\TestWallThickness.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TestWallThickness\VB.NET\obj\x64\Release\TestWallThickness.vbprojResolveAssemblyReference.cache

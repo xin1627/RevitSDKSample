@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ObjectViewer\CS\bin\Release\ObjectViewer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ObjectViewer\CS\bin\Release\ObjectViewer.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ObjectViewer\CS\obj\x64\Release\Revit.SDK.Samples.ObjectViewer.CS.ObjectViewerForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ObjectViewer\CS\obj\x64\Release\ObjectViewer.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ObjectViewer\CS\obj\x64\Release\ObjectViewer.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ObjectViewer\CS\obj\x64\Release\ObjectViewer.pdb

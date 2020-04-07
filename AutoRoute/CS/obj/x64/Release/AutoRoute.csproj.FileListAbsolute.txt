@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AutoRoute\CS\bin\Release\AutoRoute.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AutoRoute\CS\bin\Release\AutoRoute.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AutoRoute\CS\obj\x64\Release\AutoRoute.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AutoRoute\CS\obj\x64\Release\AutoRoute.pdb

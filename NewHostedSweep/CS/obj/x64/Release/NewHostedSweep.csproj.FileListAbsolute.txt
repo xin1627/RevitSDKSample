@@ -1,0 +1,8 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewHostedSweep\CS\bin\Release\NewHostedSweep.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewHostedSweep\CS\bin\Release\NewHostedSweep.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewHostedSweep\CS\obj\x64\Release\Revit.SDK.Samples.NewHostedSweep.CS.MainForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewHostedSweep\CS\obj\x64\Release\Revit.SDK.Samples.NewHostedSweep.CS.HostedSweepModifyForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewHostedSweep\CS\obj\x64\Release\Revit.SDK.Samples.NewHostedSweep.CS.EdgeFetchForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewHostedSweep\CS\obj\x64\Release\NewHostedSweep.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewHostedSweep\CS\obj\x64\Release\NewHostedSweep.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewHostedSweep\CS\obj\x64\Release\NewHostedSweep.pdb

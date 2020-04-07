@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ReferencePlane\CS\bin\Release\ReferencePlane.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ReferencePlane\CS\bin\Release\ReferencePlane.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ReferencePlane\CS\obj\x64\Release\Revit.SDK.Samples.ReferencePlane.CS.ReferencePlaneForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ReferencePlane\CS\obj\x64\Release\ReferencePlane.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ReferencePlane\CS\obj\x64\Release\ReferencePlane.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ReferencePlane\CS\obj\x64\Release\ReferencePlane.pdb

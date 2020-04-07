@@ -1,0 +1,11 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\bin\Release\PointCurveCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\bin\Release\PointCurveCreation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\bin\Release\office.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\bin\Release\Microsoft.Vbe.Interop.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\bin\Release\stdole.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\bin\Release\office.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\obj\x64\Release\PointCurveCreation.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\obj\x64\Release\PointCurveCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\PointCurveCreation\CS\obj\x64\Release\PointCurveCreation.pdb

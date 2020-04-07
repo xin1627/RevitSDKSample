@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DesignOptionReader\VB.NET\bin\x64\Release\DesignOptionReader.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DesignOptionReader\VB.NET\obj\x64\Release\Revit.SDK.Samples.DesignOptionReader.VB.NET.DesignOptionsDialog.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DesignOptionReader\VB.NET\obj\x64\Release\DesignOptionReader.vbproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DesignOptionReader\VB.NET\obj\x64\Release\DesignOptionReader.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DesignOptionReader\VB.NET\obj\x64\Release\DesignOptionReader.vbprojResolveAssemblyReference.cache

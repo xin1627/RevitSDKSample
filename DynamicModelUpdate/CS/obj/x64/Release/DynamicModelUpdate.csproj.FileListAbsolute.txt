@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DynamicModelUpdate\CS\bin\Release\DynamicModelUpdate.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DynamicModelUpdate\CS\bin\Release\DynamicModelUpdate.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DynamicModelUpdate\CS\obj\x64\Release\DynamicModelUpdate.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DynamicModelUpdate\CS\obj\x64\Release\DynamicModelUpdate.pdb

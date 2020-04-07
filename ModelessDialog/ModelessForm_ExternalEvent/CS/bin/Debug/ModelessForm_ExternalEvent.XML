@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ModelessForm_ExternalEvent</name>
+    </assembly>
+    <members>
+        <member name="T:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Application">
+            <summary>
+            Implements the Revit add-in interface IExternalApplication
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Application.OnShutdown(Autodesk.Revit.UI.UIControlledApplication)">
+            <summary>
+            Implements the OnShutdown event
+            </summary>
+            <param name="application"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Application.OnStartup(Autodesk.Revit.UI.UIControlledApplication)">
+            <summary>
+            Implements the OnStartup event
+            </summary>
+            <param name="application"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Application.ShowForm(Autodesk.Revit.UI.UIApplication)">
+            <summary>
+              This method creates and shows a modeless dialog, unless it already exists.
+            </summary>
+            <remarks>
+              The external command invokes this on the end-user's request
+            </remarks>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Application.WakeFormUp">
+            <summary>
+              Waking up the dialog from its waiting state.
+            </summary>
+            
+        </member>
+        <member name="T:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Command">
+            <summary>
+            Implements the Revit add-in interface IExternalCommand
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Command.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            Implement this method as an external command for Revit.
+            </summary>
+            <param name="commandData">An object that is passed to the external application 
+            which contains data related to the command, 
+            such as the application object and active view.</param>
+            <param name="message">A message that can be set by the external application 
+            which will be displayed if a failure or cancellation is returned by 
+            the external command.</param>
+            <param name="elements">A set of elements to which the external application 
+            can add elements that are to be highlighted in case of failure or cancellation.</param>
+            <returns>Return the status of the external command. 
+            A result of Succeeded means that the API external method functioned as expected. 
+            Cancelled can be used to signify that the user cancelled the external operation 
+            at some point. Failure should be returned if the application is unable to proceed with 
+            the operation.</returns>
+        </member>
+        <member name="T:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm">
+            <summary>
+            The class of our modeless dialog.
+            </summary>
+            <remarks>
+            Besides other methods, it has one method per each command button.
+            In each of those methods nothing else is done but raising an external
+            event with a specific request set in the request handler.
+            </remarks>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.#ctor(Autodesk.Revit.UI.ExternalEvent,Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestHandler)">
+            <summary>
+              Dialog instantiation
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.OnFormClosed(System.Windows.Forms.FormClosedEventArgs)">
+            <summary>
+            Form closed event handler
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.EnableCommands(System.Boolean)">
+             <summary>
+               Control enabler / disabler 
+             </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.MakeRequest(Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId)">
+             <summary>
+               A private helper method to make a request
+               and put the dialog to sleep at the same time.
+             </summary>
+             <remarks>
+               It is expected that the process which executes the request 
+               (the Idling helper in this particular case) will also
+               wake the dialog up after finishing the execution.
+             </remarks>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.DozeOff">
+            <summary>
+              DozeOff -> disable all controls (but the Exit button)
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.WakeUp">
+            <summary>
+              WakeUp -> enable all controls
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnExit_Click(System.Object,System.EventArgs)">
+            <summary>
+              Exit - closing the dialog
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnFlipLeft_Click(System.Object,System.EventArgs)">
+            <summary>
+              Making a door Left
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnFlipRight_Click(System.Object,System.EventArgs)">
+            <summary>
+              Making a door Right
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnFlipLeftRight_Click(System.Object,System.EventArgs)">
+            <summary>
+              Flipping a door between Right and Left
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnFlipInOut_Click(System.Object,System.EventArgs)">
+            <summary>
+              Flipping a door between facing In and Out
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnFlipOut_Click(System.Object,System.EventArgs)">
+            <summary>
+              Turning a door to face Out
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnFlipIn_Click(System.Object,System.EventArgs)">
+            <summary>
+              Turning a door to face In
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnRotate_Click(System.Object,System.EventArgs)">
+            <summary>
+              Turning a door around - flipping both hand and face
+            </summary>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.btnDelete_Click(System.Object,System.EventArgs)">
+            <summary>
+              Deleting a door
+            </summary>
+            
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId">
+            <summary>
+              A list of requests the dialog has available
+            </summary>
+            
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.None">
+            <summary>
+            None
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.Delete">
+            <summary>
+            "Delete" request
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.FlipLeftRight">
+            <summary>
+            "FlipLeftRight" request
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.FlipInOut">
+            <summary>
+            "FlipInOut" request
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.MakeRight">
+            <summary>
+            "MakeRight" request
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.MakeLeft">
+            <summary>
+            "MakeLeft" request
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.TurnOut">
+            <summary>
+            "TurnOut" request
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.TurnIn">
+            <summary>
+            "TurnIn" request
+            </summary>
+        </member>
+        <member name="F:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId.Rotate">
+            <summary>
+            "Rotate" request
+            </summary>
+        </member>
+        <member name="T:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Request">
+            <summary>
+              A class around a variable holding the current request.
+            </summary>
+            <remarks>
+              Access to it is made thread-safe, even though we don't necessarily
+              need it if we always disable the dialog between individual requests.
+            </remarks>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Request.Take">
+            <summary>
+              Take - The Idling handler calls this to obtain the latest request. 
+            </summary>
+            <remarks>
+              This is not a getter! It takes the request and replaces it
+              with 'None' to indicate that the request has been "passed on".
+            </remarks>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.Request.Make(Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestId)">
+            <summary>
+              Make - The Dialog calls this when the user presses a command button there. 
+            </summary>
+            <remarks>
+              It replaces any older request previously made.
+            </remarks>
+            
+        </member>
+        <member name="T:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestHandler">
+            <summary>
+              A class with methods to execute requests made by the dialog user.
+            </summary>
+            
+        </member>
+        <member name="P:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestHandler.Request">
+            <summary>
+            A public property to access the current request value
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestHandler.GetName">
+            <summary>
+              A method to identify this External Event Handler
+            </summary>
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestHandler.Execute(Autodesk.Revit.UI.UIApplication)">
+            <summary>
+              The top method of the event handler.
+            </summary>
+            <remarks>
+              This is called by Revit after the corresponding
+              external event was raised (by the modeless form)
+              and Revit reached the time at which it could call
+              the event's handler (i.e. this object)
+            </remarks>
+            
+        </member>
+        <member name="M:Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestHandler.ModifySelectedDoors(Autodesk.Revit.UI.UIApplication,System.String,Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.RequestHandler.DoorOperation)">
+            <summary>
+              The main door-modification subroutine - called from every request 
+            </summary>
+            <remarks>
+              It searches the current selection for all doors
+              and if it finds any it applies the requested operation to them
+            </remarks>
+            <param name="uiapp">The Revit application object</param>
+            <param name="text">Caption of the transaction for the operation.</param>
+            <param name="operation">A delegate to perform the operation on an instance of a door.</param>
+            
+        </member>
+    </members>
+</doc>

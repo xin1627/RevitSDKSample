@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\AutoJoin\CS\bin\Release\AutoJoin.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\AutoJoin\CS\bin\Release\AutoJoin.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\AutoJoin\CS\obj\x64\Release\AutoJoin.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\AutoJoin\CS\obj\x64\Release\AutoJoin.pdb

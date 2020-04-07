@@ -1,0 +1,8 @@
+D:\Revit 2019 SDK\Samples\ModelessDialog\ModelessForm_ExternalEvent\CS\bin\Debug\ModelessForm_ExternalEvent.XML
+D:\Revit 2019 SDK\Samples\ModelessDialog\ModelessForm_ExternalEvent\CS\bin\Debug\ModelessForm_ExternalEvent.dll
+D:\Revit 2019 SDK\Samples\ModelessDialog\ModelessForm_ExternalEvent\CS\bin\Debug\ModelessForm_ExternalEvent.pdb
+D:\Revit 2019 SDK\Samples\ModelessDialog\ModelessForm_ExternalEvent\CS\obj\Debug\ModelessForm_ExternalEvent.csprojAssemblyReference.cache
+D:\Revit 2019 SDK\Samples\ModelessDialog\ModelessForm_ExternalEvent\CS\obj\Debug\Revit.SDK.Samples.ModelessForm_ExternalEvent.CS.ModelessForm.resources
+D:\Revit 2019 SDK\Samples\ModelessDialog\ModelessForm_ExternalEvent\CS\obj\Debug\ModelessForm_ExternalEvent.csproj.GenerateResource.cache
+D:\Revit 2019 SDK\Samples\ModelessDialog\ModelessForm_ExternalEvent\CS\obj\Debug\ModelessForm_ExternalEvent.dll
+D:\Revit 2019 SDK\Samples\ModelessDialog\ModelessForm_ExternalEvent\CS\obj\Debug\ModelessForm_ExternalEvent.pdb

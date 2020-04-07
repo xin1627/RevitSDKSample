@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyParametersOrder\CS\bin\Release\FamilyParametersOrder.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyParametersOrder\CS\bin\Release\FamilyParametersOrder.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyParametersOrder\CS\obj\x64\Release\Revit.SDK.Samples.FamilyParametersOrder.CS.SortFamilyFilesParamsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyParametersOrder\CS\obj\x64\Release\Revit.SDK.Samples.FamilyParametersOrder.CS.SortLoadedFamiliesParamsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyParametersOrder\CS\obj\x64\Release\FamilyParametersOrder.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyParametersOrder\CS\obj\x64\Release\FamilyParametersOrder.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyParametersOrder\CS\obj\x64\Release\FamilyParametersOrder.pdb

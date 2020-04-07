@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\AutoUpdate\CS\bin\Release\AutoUpdate.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\AutoUpdate\CS\bin\Release\AutoUpdate.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\AutoUpdate\CS\obj\x64\Release\AutoUpdate.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\AutoUpdate\CS\obj\x64\Release\AutoUpdate.pdb

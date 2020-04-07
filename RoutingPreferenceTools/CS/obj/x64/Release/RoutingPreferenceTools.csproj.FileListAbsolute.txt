@@ -1,0 +1,15 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\bin\Release\RoutingPreferenceTools.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\bin\Release\RoutingPreferenceTools.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\bin\Release\Microsoft.CSharp.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\bin\Release\System.Data.DataSetExtensions.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\bin\Release\System.Data.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\bin\Release\System.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\bin\Release\System.Xml.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\bin\Release\System.Xml.Linq.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\obj\x64\Release\RoutingPreferenceTools.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\obj\x64\Release\RoutingPreferenceAnalysis\MainWindow.baml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\obj\x64\Release\RoutingPreferenceAnalysis\MainWindow.g.cs
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\obj\x64\Release\RoutingPreferenceTools_MarkupCompile.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\obj\x64\Release\RoutingPreferenceTools.g.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\obj\x64\Release\RoutingPreferenceTools.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RoutingPreferenceTools\CS\obj\x64\Release\RoutingPreferenceTools.pdb

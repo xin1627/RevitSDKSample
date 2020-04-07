@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StairsAutomation\CS\bin\Release\StairsAutomation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StairsAutomation\CS\bin\Release\StairsAutomation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StairsAutomation\CS\obj\x64\Release\StairsAutomation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StairsAutomation\CS\obj\x64\Release\StairsAutomation.pdb

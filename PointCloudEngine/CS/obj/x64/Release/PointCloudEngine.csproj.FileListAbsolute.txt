@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PointCloudEngine\CS\bin\Release\PointCloudEngine.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PointCloudEngine\CS\bin\Release\PointCloudEngine.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PointCloudEngine\CS\obj\x64\Release\PointCloudEngine.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PointCloudEngine\CS\obj\x64\Release\PointCloudEngine.pdb

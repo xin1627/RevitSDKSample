@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarContainerAnyShapeType\CS\bin\Release\RebarContainerAnyShapeType.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarContainerAnyShapeType\CS\bin\Release\RebarContainerAnyShapeType.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarContainerAnyShapeType\CS\obj\x64\Release\Revit.SDK.Samples.RebarContainerAnyShapeType.CS.BeamFramReinMakerForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarContainerAnyShapeType\CS\obj\x64\Release\Revit.SDK.Samples.RebarContainerAnyShapeType.CS.ColumnFramReinMakerForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarContainerAnyShapeType\CS\obj\x64\Release\RebarContainerAnyShapeType.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarContainerAnyShapeType\CS\obj\x64\Release\RebarContainerAnyShapeType.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RebarContainerAnyShapeType\CS\obj\x64\Release\RebarContainerAnyShapeType.pdb

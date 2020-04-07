@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabProperties\VB.NET\bin\x64\Release\SlabProperties.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabProperties\VB.NET\obj\x64\Release\Revit.SDK.Samples.SlabProperties.VB.NET.SlabPropertiesForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabProperties\VB.NET\obj\x64\Release\SlabProperties.vbproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabProperties\VB.NET\obj\x64\Release\SlabProperties.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabProperties\VB.NET\obj\x64\Release\SlabProperties.vbprojResolveAssemblyReference.cache

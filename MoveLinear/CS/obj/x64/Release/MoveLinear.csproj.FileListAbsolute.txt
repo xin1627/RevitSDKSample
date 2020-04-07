@@ -1,0 +1,2 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MoveLinear\CS\bin\Release\MoveLinear.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MoveLinear\CS\obj\x64\Release\MoveLinear.dll

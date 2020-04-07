@@ -1,0 +1,2 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PhysicalProp\CS\bin\Release\PhysicalProp.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PhysicalProp\CS\obj\x64\Release\PhysicalProp.dll

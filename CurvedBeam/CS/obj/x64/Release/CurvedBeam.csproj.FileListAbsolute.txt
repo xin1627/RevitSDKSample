@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurvedBeam\CS\bin\Release\CurvedBeam.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurvedBeam\CS\bin\Release\CurvedBeam.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurvedBeam\CS\obj\x64\Release\Revit.SDK.Samples.CurvedBeam.CS.CurvedBeamForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurvedBeam\CS\obj\x64\Release\Revit.SDK.Samples.CurvedBeam.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurvedBeam\CS\obj\x64\Release\CurvedBeam.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurvedBeam\CS\obj\x64\Release\CurvedBeam.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\CurvedBeam\CS\obj\x64\Release\CurvedBeam.pdb

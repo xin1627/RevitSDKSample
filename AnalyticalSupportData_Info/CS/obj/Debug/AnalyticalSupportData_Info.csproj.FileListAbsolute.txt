@@ -1,0 +1,3 @@
+D:\Revit 2019 SDK\Samples\AnalyticalSupportData_Info\CS\obj\Debug\AnalyticalSupportData_Info.csprojAssemblyReference.cache
+D:\Revit 2019 SDK\Samples\AnalyticalSupportData_Info\CS\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+D:\Revit 2019 SDK\Samples\AnalyticalSupportData_Info\CS\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.cache

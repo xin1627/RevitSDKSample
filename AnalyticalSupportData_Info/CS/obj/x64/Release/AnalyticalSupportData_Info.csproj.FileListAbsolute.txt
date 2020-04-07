@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalyticalSupportData_Info\CS\bin\Release\AnalyticalSupportData_Info.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalyticalSupportData_Info\CS\bin\Release\AnalyticalSupportData_Info.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalyticalSupportData_Info\CS\obj\x64\Release\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalyticalSupportData_Info\CS\obj\x64\Release\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalyticalSupportData_Info\CS\obj\x64\Release\AnalyticalSupportData_Info.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalyticalSupportData_Info\CS\obj\x64\Release\AnalyticalSupportData_Info.pdb

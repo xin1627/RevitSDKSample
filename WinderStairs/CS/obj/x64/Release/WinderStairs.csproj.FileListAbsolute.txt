@@ -1,0 +1,8 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\WinderStairs\CS\bin\Release\WinderStairs.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\WinderStairs\CS\bin\Release\WinderStairs.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\WinderStairs\CS\obj\x64\Release\Revit.SDK.Samples.WinderStairs.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\WinderStairs\CS\obj\x64\Release\Revit.SDK.Samples.WinderStairs.CS.LWinderOptions.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\WinderStairs\CS\obj\x64\Release\Revit.SDK.Samples.WinderStairs.CS.UWinderOptions.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\WinderStairs\CS\obj\x64\Release\WinderStairs.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\WinderStairs\CS\obj\x64\Release\WinderStairs.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\WinderStairs\CS\obj\x64\Release\WinderStairs.pdb

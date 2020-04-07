@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\BRepBuilderExample\CS\bin\Release\BRepBuilderExample.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\BRepBuilderExample\CS\obj\x64\Release\Revit.SDK.Samples.BRepBuilderExample.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\BRepBuilderExample\CS\obj\x64\Release\BRepBuilderExample.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\BRepBuilderExample\CS\obj\x64\Release\BRepBuilderExample.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\BRepBuilderExample\CS\obj\x64\Release\BRepBuilderExample.csprojResolveAssemblyReference.cache

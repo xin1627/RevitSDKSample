@@ -1,0 +1,8 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FrameBuilder\CS\bin\Release\FrameBuilder.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FrameBuilder\CS\bin\Release\FrameBuilder.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FrameBuilder\CS\obj\x64\Release\Revit.SDK.Samples.FrameBuilder.CS.CreateFrameForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FrameBuilder\CS\obj\x64\Release\Revit.SDK.Samples.FrameBuilder.CS.EditTypeNameForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FrameBuilder\CS\obj\x64\Release\Revit.SDK.Samples.FrameBuilder.CS.DuplicateTypeForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FrameBuilder\CS\obj\x64\Release\FrameBuilder.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FrameBuilder\CS\obj\x64\Release\FrameBuilder.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FrameBuilder\CS\obj\x64\Release\FrameBuilder.pdb

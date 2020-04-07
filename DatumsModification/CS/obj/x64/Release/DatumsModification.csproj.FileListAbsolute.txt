@@ -1,0 +1,9 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\bin\Release\DatumsModification.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\bin\Release\DatumsModification.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\obj\x64\Release\Revit.SDK.Samples.DatumsModification.CS.AlignmentSetting.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\obj\x64\Release\Revit.SDK.Samples.DatumsModification.CS.DatumStyleSetting.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\obj\x64\Release\Revit.SDK.Samples.DatumsModification.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\obj\x64\Release\Revit.SDK.Samples.DatumsModification.CS.PropogateSetting.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\obj\x64\Release\DatumsModification.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\obj\x64\Release\DatumsModification.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\DatumsModification\CS\obj\x64\Release\DatumsModification.pdb

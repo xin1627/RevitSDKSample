@@ -1,0 +1,8 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewRoof\CS\bin\Release\NewRoof.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewRoof\CS\bin\Release\NewRoof.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewRoof\CS\obj\x64\Release\Revit.SDK.Samples.NewRoof.RoofForms.CS.RoofEditorForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewRoof\CS\obj\x64\Release\Revit.SDK.Samples.NewRoof.RoofForms.CS.RoofForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewRoof\CS\obj\x64\Release\Revit.SDK.Samples.NewRoof.RoofForms.CS.GraphicsControl.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewRoof\CS\obj\x64\Release\NewRoof.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewRoof\CS\obj\x64\Release\NewRoof.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewRoof\CS\obj\x64\Release\NewRoof.pdb

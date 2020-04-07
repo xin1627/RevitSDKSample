@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\AutoStamp\CS\bin\Release\AutoStamp.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\AutoStamp\CS\bin\Release\AutoStamp.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\AutoStamp\CS\obj\x64\Release\AutoStamp.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\AutoStamp\CS\obj\x64\Release\AutoStamp.pdb

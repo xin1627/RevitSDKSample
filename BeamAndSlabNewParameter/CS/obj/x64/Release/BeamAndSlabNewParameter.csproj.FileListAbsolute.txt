@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BeamAndSlabNewParameter\CS\bin\Release\BeamAndSlabNewParameter.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BeamAndSlabNewParameter\CS\obj\x64\Release\Revit.SDK.Samples.BeamAndSlabNewParameter.CS.BeamAndSlabParametersForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BeamAndSlabNewParameter\CS\obj\x64\Release\BeamAndSlabNewParameter.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BeamAndSlabNewParameter\CS\obj\x64\Release\BeamAndSlabNewParameter.dll

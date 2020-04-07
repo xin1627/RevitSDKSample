@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MaterialProperties\CS\bin\Release\MaterialProperties.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MaterialProperties\CS\obj\x64\Release\Revit.SDK.Samples.MaterialProperties.CS.MaterialPropertiesForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MaterialProperties\CS\obj\x64\Release\MaterialProperties.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MaterialProperties\CS\obj\x64\Release\MaterialProperties.dll

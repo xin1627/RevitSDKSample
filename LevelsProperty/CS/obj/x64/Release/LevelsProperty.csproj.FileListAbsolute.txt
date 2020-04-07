@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\LevelsProperty\CS\bin\Release\LevelsProperty.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\LevelsProperty\CS\bin\Release\LevelsProperty.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\LevelsProperty\CS\obj\x64\Release\Revit.SDK.Samples.LevelsProperty.CS.LevelsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\LevelsProperty\CS\obj\x64\Release\Revit.SDK.Samples.LevelsProperty.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\LevelsProperty\CS\obj\x64\Release\LevelsProperty.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\LevelsProperty\CS\obj\x64\Release\LevelsProperty.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\LevelsProperty\CS\obj\x64\Release\LevelsProperty.pdb

@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MultiThreading\WorkThread\CS\bin\Release\WorkThread.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MultiThreading\WorkThread\CS\bin\Release\WorkThread.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MultiThreading\WorkThread\CS\obj\x64\Release\WorkThread.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\MultiThreading\WorkThread\CS\obj\x64\Release\WorkThread.pdb

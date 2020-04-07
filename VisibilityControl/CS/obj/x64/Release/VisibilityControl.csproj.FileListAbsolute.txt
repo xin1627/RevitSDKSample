@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\VisibilityControl\CS\bin\Release\VisibilityControl.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\VisibilityControl\CS\bin\Release\VisibilityControl.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\VisibilityControl\CS\obj\x64\Release\Revit.SDK.Samples.VisibilityControl.CS.VisibilityCtrlForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\VisibilityControl\CS\obj\x64\Release\VisibilityControl.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\VisibilityControl\CS\obj\x64\Release\VisibilityControl.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\VisibilityControl\CS\obj\x64\Release\VisibilityControl.pdb

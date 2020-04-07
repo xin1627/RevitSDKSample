@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabShapeEditing\CS\bin\Release\SlabShapeEditing.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabShapeEditing\CS\bin\Release\SlabShapeEditing.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabShapeEditing\CS\obj\x64\Release\SlabShapeEditing.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabShapeEditing\CS\obj\x64\Release\Revit.SDK.Samples.SlabShapeEditing.CS.SlabShapeEditingForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabShapeEditing\CS\obj\x64\Release\SlabShapeEditing.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabShapeEditing\CS\obj\x64\Release\SlabShapeEditing.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SlabShapeEditing\CS\obj\x64\Release\SlabShapeEditing.pdb

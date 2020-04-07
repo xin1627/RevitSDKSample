@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PanelSchedule\CS\bin\Release\PanelSchedule.XML
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PanelSchedule\CS\bin\Release\PanelSchedule.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PanelSchedule\CS\bin\Release\PanelSchedule.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PanelSchedule\CS\obj\x64\Release\PanelSchedule.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PanelSchedule\CS\obj\x64\Release\PanelSchedule.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\PanelSchedule\CS\obj\x64\Release\PanelSchedule.csprojResolveAssemblyReference.cache

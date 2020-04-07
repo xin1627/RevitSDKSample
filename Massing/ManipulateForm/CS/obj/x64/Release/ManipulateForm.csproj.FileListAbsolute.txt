@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\ManipulateForm\CS\bin\Release\ManipulateForm.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\ManipulateForm\CS\bin\Release\ManipulateForm.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\ManipulateForm\CS\obj\x64\Release\ManipulateForm.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\ManipulateForm\CS\obj\x64\Release\ManipulateForm.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\ManipulateForm\CS\obj\x64\Release\ManipulateForm.csprojResolveAssemblyReference.cache

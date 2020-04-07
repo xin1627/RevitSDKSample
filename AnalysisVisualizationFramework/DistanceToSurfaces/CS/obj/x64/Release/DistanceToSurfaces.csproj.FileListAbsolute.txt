@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalysisVisualizationFramework\DistanceToSurfaces\CS\bin\Release\DistanceToSurfaces.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalysisVisualizationFramework\DistanceToSurfaces\CS\bin\Release\DistanceToSurfaces.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalysisVisualizationFramework\DistanceToSurfaces\CS\obj\x64\Release\DistanceToSurfaces.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalysisVisualizationFramework\DistanceToSurfaces\CS\obj\x64\Release\DistanceToSurfaces.pdb

@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalysisVisualizationFramework\MultithreadedCalculation\CS\bin\Release\MultithreadedCalculation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalysisVisualizationFramework\MultithreadedCalculation\CS\bin\Release\MultithreadedCalculation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalysisVisualizationFramework\MultithreadedCalculation\CS\obj\x64\Release\MultithreadedCalculation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\AnalysisVisualizationFramework\MultithreadedCalculation\CS\obj\x64\Release\MultithreadedCalculation.pdb

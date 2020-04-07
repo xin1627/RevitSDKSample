@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TypeSelector\VB.NET\bin\x64\Release\TypeSelector.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TypeSelector\VB.NET\obj\x64\Release\Revit.SDK.Samples.TypeSelector.VB.NET.TypeSelectorWindow.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TypeSelector\VB.NET\obj\x64\Release\TypeSelector.vbproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TypeSelector\VB.NET\obj\x64\Release\TypeSelector.dll

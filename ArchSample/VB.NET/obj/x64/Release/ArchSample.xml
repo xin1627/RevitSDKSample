@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ArchSample
+</name>
+</assembly>
+<members>
+<member name="M:Revit.SDK.Samples.ArchSample.VB.NET.Command.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+ <summary>
+ Implement this method as an external command for Revit.
+ </summary>
+ <param name="commandData">An object that is passed to the external application 
+ which contains data related to the command, 
+ such as the application object and active view.</param>
+ <param name="message">A message that can be set by the external application 
+ which will be displayed if a failure or cancellation is returned by 
+ the external command.</param>
+ <param name="elements">A set of elements to which the external application 
+ can add elements that are to be highlighted in case of failure or cancellation.</param>
+ <returns>Return the status of the external command. 
+ A result of Succeeded means that the API external method functioned as expected. 
+ Cancelled can be used to signify that the user cancelled the external operation 
+ at some point. Failure should be returned if the application is unable to proceed with 
+ the operation.</returns>
+</member>
+<member name="M:Revit.SDK.Samples.ArchSample.VB.NET.Command.LaunchExcel">
+ <summary>
+ LaunchExcel will try to launch Excel 2003 or later. It will then create an empty workbook
+ and remove all of the work sheets except one which will form the basis for the first
+ category that is sent to Excel by this sample
+ </summary>
+ <returns>Excel application</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ArchSample.VB.NET.Command.SendToExcel(Microsoft.Office.Interop.Excel.Application@,Autodesk.Revit.ApplicationServices.Application,System.String,Autodesk.Revit.DB.ElementSet)">
+ <summary>
+ the SendToExcel method takes a category and a set of elements that belong to that category
+ and finds the common properties between those elements. Excel is then sent the names and
+ values of these properties, adding the category as a new sheet
+ </summary>
+ <param name="excel">Excel application</param>
+ <param name="application">Revit application</param>
+ <param name="categoryName">name of category</param>
+ <param name="elementSet">the elements in the category</param>
+ <returns>If function succeed, return True. Otherwise False</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ArchSample.VB.NET.Command.GetValuesOfNamedProperties(Autodesk.Revit.ApplicationServices.Application,Autodesk.Revit.DB.Element,System.Collections.Generic.List{System.String})">
+ <summary>
+ GetValuesOfNamedProperties takes a set of property names and looks up the values for those properties
+ returning them in a string form
+ </summary>
+ <param name="application">Revit application</param>
+ <param name="element">element</param>
+ <param name="propertyNames">names of properties</param>
+ <returns>The map stores the values according to the names of properties</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ArchSample.VB.NET.Command.GetCommonPropertyNames(Autodesk.Revit.ApplicationServices.Application,Autodesk.Revit.DB.ElementSet)">
+ <summary>
+ GetCommonPropertyNames takes a set of elements and seeks the property names that are common between them
+ If an element does not support any properties at all it is ignored.
+ The process of finding the common elements is done by collecting all the names of parameters for
+ the first element and then removing those that are not used by the other elements
+ </summary>
+ <param name="application">Revit application</param>
+ <param name="elementSet">elements</param>
+ <returns>A set of common properties</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ArchSample.VB.NET.Command.GetSortedNonSymbolElements(Autodesk.Revit.UI.UIApplication,Autodesk.Revit.DB.Document)">
+ <summary>
+ GetSortedNonSymbolElements searches the entire Revit project and sorts the elements based
+ upon category. Revit Symbols (Types) are ignored as we are only interested in instances of elements.
+ </summary>
+ <param name="application">Revit application</param>
+ <param name="document">Revit document</param>
+ <returns>The map stores all the elements according to their category</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

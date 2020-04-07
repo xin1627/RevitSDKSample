@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InvisibleParam\CS\bin\Release\InvisibleParam.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InvisibleParam\CS\bin\Release\InvisibleParam.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InvisibleParam\CS\obj\x64\Release\InvisibleParam.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\InvisibleParam\CS\obj\x64\Release\InvisibleParam.pdb

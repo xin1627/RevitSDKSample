@@ -1,0 +1,16 @@
+D:\Revit 2019 SDK\Samples\ImportExport\CS\bin\Debug\ImportExport.XML
+D:\Revit 2019 SDK\Samples\ImportExport\CS\bin\Debug\ImportExport.dll
+D:\Revit 2019 SDK\Samples\ImportExport\CS\bin\Debug\ImportExport.pdb
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\ImportExport.csprojAssemblyReference.cache
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.ExportDWFOptionForm.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.ExportDGNOptionsForm.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.ExportIMGOptionsForm.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.ExportWithViewsForm.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.ExportBaseOptionsForm.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.ImportDWGForm.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.MainForm.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.SelectViewsForm.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\Revit.SDK.Samples.ImportExport.CS.Properties.Resources.resources
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\ImportExport.csproj.GenerateResource.cache
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\ImportExport.dll
+D:\Revit 2019 SDK\Samples\ImportExport\CS\obj\Debug\ImportExport.pdb

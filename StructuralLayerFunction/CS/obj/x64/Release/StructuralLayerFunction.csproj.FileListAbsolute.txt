@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructuralLayerFunction\CS\bin\Release\StructuralLayerFunction.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructuralLayerFunction\CS\obj\x64\Release\Revit.SDK.Samples.StructuralLayerFunction.CS.StructuralLayerFunctionForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructuralLayerFunction\CS\obj\x64\Release\StructuralLayerFunction.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructuralLayerFunction\CS\obj\x64\Release\StructuralLayerFunction.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\StructuralLayerFunction\CS\obj\x64\Release\StructuralLayerFunction.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\SlaveSymbolGeometry\CS\bin\Release\SlaveSymbolGeometry.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\SlaveSymbolGeometry\CS\bin\Release\SlaveSymbolGeometry.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\SlaveSymbolGeometry\CS\obj\x64\Release\SlaveSymbolGeometry.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GeometryAPI\SlaveSymbolGeometry\CS\obj\x64\Release\SlaveSymbolGeometry.pdb

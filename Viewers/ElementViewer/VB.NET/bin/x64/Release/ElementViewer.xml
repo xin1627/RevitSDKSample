@@ -1,0 +1,114 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ElementViewer
+</name>
+</assembly>
+<members>
+<member name="T:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer">
+ <summary>
+ Implements the Revit add-in interface IExternalCommand
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+ <summary>
+ Implement this method as an external command for Revit.
+ </summary>
+ <param name="commandData">An object that is passed to the external application 
+ which contains data related to the command, 
+ such as the application object and active view.</param>
+ <param name="message">A message that can be set by the external application 
+ which will be displayed if a failure or cancellation is returned by 
+ the external command.</param>
+ <param name="elements">A set of elements to which the external application 
+ can add elements that are to be highlighted in case of failure or cancellation.</param>
+ <returns>Return the status of the external command. 
+ A result of Succeeded means that the API external method functioned as expected. 
+ Cancelled can be used to signify that the user cancelled the external operation 
+ at some point. Failure should be returned if the application is unable to proceed with 
+ the operation.</returns>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawElement(Autodesk.Revit.DB.GeometryElement)">
+ <summary>
+ Draw geometry of element.
+ </summary>
+ <param name="elementGeom"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.ViewerDrawLine(Autodesk.Revit.DB.XYZ@,Autodesk.Revit.DB.XYZ@)">
+ <summary>
+ add the primitive line to the Wireframe object.
+ </summary>
+ <param name="startPoint"></param>
+ <param name="endPoint"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.TransformPoint(Autodesk.Revit.DB.Transform,Autodesk.Revit.DB.XYZ@)">
+ <summary>
+ transform point to be fit.
+ </summary>
+ <param name="transform"></param>
+ <param name="point"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawCurve(Autodesk.Revit.DB.Curve)">
+ <summary>
+ add the primitive curve to the Wireframe object.
+ </summary>
+ <param name="geomCurve"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawPoly(Autodesk.Revit.DB.PolyLine)">
+ <summary>
+ add the poly line to the Wireframe object.
+ </summary>
+ <param name="polyLine"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawPoints(System.Collections.Generic.List{Autodesk.Revit.DB.XYZ})">
+ <summary>
+ add the primitive points to the Wireframe object.
+ </summary>
+ <param name="points"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawInstance(Autodesk.Revit.DB.GeometryInstance)">
+ <summary>
+ add the primitive instance to the Wireframe object.
+ </summary>
+ <param name="geomInstance"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawMesh(Autodesk.Revit.DB.Mesh)">
+ <summary>
+ add the primitive mesh to the Wireframe object.
+ </summary>
+ <param name="geomMesh"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawSolid(Autodesk.Revit.DB.Solid)">
+ <summary>
+ add the primitive solid to the Wireframe object.
+ </summary>
+ <param name="geomSolid"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawEdge(Autodesk.Revit.DB.Edge)">
+ <summary>
+ add the primitive edge to the Wireframe object.
+ </summary>
+ <param name="geomEdge"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Revit.SDK.Samples.ElementViewer.VB.NET.ElementViewer.DrawFace(Autodesk.Revit.DB.Face)">
+ <summary>
+ add the primitive face to the Wireframe object.
+ </summary>
+ <param name="geomFace"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

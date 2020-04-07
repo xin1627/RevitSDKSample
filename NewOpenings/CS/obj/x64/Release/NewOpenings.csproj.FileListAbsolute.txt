@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewOpenings\CS\bin\Release\NewOpenings.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewOpenings\CS\bin\Release\NewOpenings.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewOpenings\CS\obj\x64\Release\Revit.SDK.Samples.NewOpenings.CS.NewOpeningsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewOpenings\CS\obj\x64\Release\NewOpenings.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewOpenings\CS\obj\x64\Release\NewOpenings.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\NewOpenings\CS\obj\x64\Release\NewOpenings.pdb

@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BrowseBindings\VB.NET\bin\x64\Release\BrowseBindings.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BrowseBindings\VB.NET\bin\x64\Release\BrowseBindings.xml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BrowseBindings\VB.NET\obj\x64\Release\Revit.SDK.Samples.BrowseBindings.VB.NET.BindingsBrowserForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BrowseBindings\VB.NET\obj\x64\Release\BrowseBindings.vbproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BrowseBindings\VB.NET\obj\x64\Release\BrowseBindings.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\BrowseBindings\VB.NET\obj\x64\Release\BrowseBindings.xml

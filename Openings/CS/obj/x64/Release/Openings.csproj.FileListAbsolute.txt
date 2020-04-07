@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Openings\CS\bin\Release\Openings.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Openings\CS\bin\Release\Openings.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Openings\CS\obj\x64\Release\Revit.SDK.Samples.Openings.CS.CreateModelLineOptionsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Openings\CS\obj\x64\Release\Revit.SDK.Samples.Openings.CS.OpeningForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Openings\CS\obj\x64\Release\Openings.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Openings\CS\obj\x64\Release\Openings.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Openings\CS\obj\x64\Release\Openings.pdb

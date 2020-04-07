@@ -1,0 +1,6 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\WindowWizard\CS\bin\Release\WindowWizard.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\WindowWizard\CS\bin\Release\WindowWizard.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\WindowWizard\CS\obj\x64\Release\Revit.SDK.Samples.WindowWizard.CS.WizardForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\WindowWizard\CS\obj\x64\Release\WindowWizard.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\WindowWizard\CS\obj\x64\Release\WindowWizard.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FamilyCreation\WindowWizard\CS\obj\x64\Release\WindowWizard.pdb

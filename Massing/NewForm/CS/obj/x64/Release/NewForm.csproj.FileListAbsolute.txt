@@ -1,0 +1,5 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\NewForm\CS\bin\Release\NewForm.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\NewForm\CS\bin\Release\NewForm.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\NewForm\CS\obj\x64\Release\NewForm.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\NewForm\CS\obj\x64\Release\NewForm.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Massing\NewForm\CS\obj\x64\Release\NewForm.csprojResolveAssemblyReference.cache

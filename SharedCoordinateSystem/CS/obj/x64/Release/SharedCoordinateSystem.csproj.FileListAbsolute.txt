@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SharedCoordinateSystem\CS\bin\Release\SharedCoordinateSystem.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SharedCoordinateSystem\CS\bin\Release\SharedCoordinateSystem.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SharedCoordinateSystem\CS\obj\x64\Release\Revit.SDK.Samples.SharedCoordinateSystem.CS.CoordinateSystemDataForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SharedCoordinateSystem\CS\obj\x64\Release\Revit.SDK.Samples.SharedCoordinateSystem.CS.DuplicateForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SharedCoordinateSystem\CS\obj\x64\Release\SharedCoordinateSystem.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SharedCoordinateSystem\CS\obj\x64\Release\SharedCoordinateSystem.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\SharedCoordinateSystem\CS\obj\x64\Release\SharedCoordinateSystem.pdb

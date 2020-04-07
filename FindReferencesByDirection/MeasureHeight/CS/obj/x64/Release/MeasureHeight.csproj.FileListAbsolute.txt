@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FindReferencesByDirection\MeasureHeight\CS\bin\Release\MeasureHeight.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FindReferencesByDirection\MeasureHeight\CS\bin\Release\MeasureHeight.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FindReferencesByDirection\MeasureHeight\CS\obj\x64\Release\MeasureHeight.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\FindReferencesByDirection\MeasureHeight\CS\obj\x64\Release\MeasureHeight.pdb

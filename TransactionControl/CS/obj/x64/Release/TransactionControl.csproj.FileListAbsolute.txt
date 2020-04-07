@@ -1,0 +1,7 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TransactionControl\CS\bin\Release\TransactionControl.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TransactionControl\CS\bin\Release\TransactionControl.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TransactionControl\CS\obj\x64\Release\Revit.SDK.Samples.TransactionControl.CS.CreateWallForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TransactionControl\CS\obj\x64\Release\Revit.SDK.Samples.TransactionControl.CS.TransactionForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TransactionControl\CS\obj\x64\Release\TransactionControl.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TransactionControl\CS\obj\x64\Release\TransactionControl.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\TransactionControl\CS\obj\x64\Release\TransactionControl.pdb

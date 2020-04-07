@@ -1,0 +1,9 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\bin\Release\ProgressNotifier.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\bin\Release\ProgressNotifier.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\obj\x64\Release\ProgressNotifier.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\obj\x64\Release\MainWindow.baml
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\obj\x64\Release\MainWindow.g.cs
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\obj\x64\Release\ProgressNotifier_MarkupCompile.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\obj\x64\Release\ProgressNotifier.g.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\obj\x64\Release\ProgressNotifier.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\ProgressNotifier\CS\obj\x64\Release\ProgressNotifier.pdb

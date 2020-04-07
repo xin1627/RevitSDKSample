@@ -1,0 +1,11 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\bin\Release\GridCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\bin\Release\GridCreation.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\GridCreation.csprojResolveAssemblyReference.cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\Revit.SDK.Samples.GridCreation.CS.CreateWithSelectedCurvesForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\Revit.SDK.Samples.GridCreation.CS.GridCreationOptionForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\Revit.SDK.Samples.GridCreation.CS.CreateOrthogonalGridsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\Revit.SDK.Samples.GridCreation.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\Revit.SDK.Samples.GridCreation.CS.CreateRadialAndArcGridsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\GridCreation.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\GridCreation.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\GridCreation\CS\obj\x64\Release\GridCreation.pdb

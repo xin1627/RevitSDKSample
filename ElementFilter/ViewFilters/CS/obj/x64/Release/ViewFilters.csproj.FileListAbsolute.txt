@@ -1,0 +1,8 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ElementFilter\ViewFilters\CS\bin\Release\ViewFilters.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ElementFilter\ViewFilters\CS\bin\Release\ViewFilters.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ElementFilter\ViewFilters\CS\obj\x64\Release\Revit.SDK.Samples.ViewFilters.CS.NewFilterForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ElementFilter\ViewFilters\CS\obj\x64\Release\Revit.SDK.Samples.ViewFilters.CS.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ElementFilter\ViewFilters\CS\obj\x64\Release\Revit.SDK.Samples.ViewFilters.CS.ViewFiltersForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ElementFilter\ViewFilters\CS\obj\x64\Release\ViewFilters.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ElementFilter\ViewFilters\CS\obj\x64\Release\ViewFilters.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ElementFilter\ViewFilters\CS\obj\x64\Release\ViewFilters.pdb

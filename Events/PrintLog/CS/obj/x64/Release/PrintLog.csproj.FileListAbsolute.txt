@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\PrintLog\CS\bin\Release\PrintLog.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\PrintLog\CS\bin\Release\PrintLog.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\PrintLog\CS\obj\x64\Release\PrintLog.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\Events\PrintLog\CS\obj\x64\Release\PrintLog.pdb

@@ -1,0 +1,4 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RotateFramingObjects\CS\bin\Release\RotateFramingObjects.dll
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RotateFramingObjects\CS\obj\x64\Release\Revit.SDK.Samples.RotateFramingObjects.CS.RotateFramingObjectsForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RotateFramingObjects\CS\obj\x64\Release\RotateFramingObjects.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\RotateFramingObjects\CS\obj\x64\Release\RotateFramingObjects.dll

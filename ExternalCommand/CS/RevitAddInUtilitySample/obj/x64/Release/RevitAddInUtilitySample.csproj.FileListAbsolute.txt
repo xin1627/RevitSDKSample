@@ -1,0 +1,8 @@
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalCommand\CS\RevitAddInUtilitySample\bin\Release\RevitAddInUtilitySample.exe
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalCommand\CS\RevitAddInUtilitySample\bin\Release\RevitAddInUtilitySample.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalCommand\CS\RevitAddInUtilitySample\obj\x64\Release\Revit.SDK.Samples.RevitAddInUtilitySample.CS.RevitAddInUtilitySampleForm.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalCommand\CS\RevitAddInUtilitySample\obj\x64\Release\RevitAddInUtilitySample.Properties.Resources.resources
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalCommand\CS\RevitAddInUtilitySample\obj\x64\Release\RevitAddInUtilitySample.csproj.GenerateResource.Cache
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalCommand\CS\RevitAddInUtilitySample\obj\x64\Release\RevitAddInUtilitySample.exe
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalCommand\CS\RevitAddInUtilitySample\obj\x64\Release\RevitAddInUtilitySample.pdb
+D:\RevitGit\r2019\RevitAdditions\RevitSDK\Software Development Kit\Samples\ExternalCommand\CS\RevitAddInUtilitySample\obj\x64\Release\RevitAddInUtilitySample.csprojResolveAssemblyReference.cache
